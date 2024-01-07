@@ -1,0 +1,863 @@
+,Sample Collection Date,Host Group,Sample Location - County,Sample Location - State,CFU,Fungus Classification - Phylum,Fungus Classification - Class,Fungus Classification - Order,Fungus Classification - Family,Fungus Classification - Genus,Fungus Classification - Species,pd_present_in_pop
+0,2014-02-11,Resistant,Pendleton,West Virginia,6,Ascomycota,Eurotiomycetes,Onygenales,Gymnoascaceae,,,1
+1,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+2,2014-02-11,Resistant,Pendleton,West Virginia,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+3,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+4,2014-02-11,Resistant,Pendleton,West Virginia,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+5,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+6,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+7,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+8,2014-02-11,Resistant,Pendleton,West Virginia,3,Basidiomycota,Exobasidiomycetes,Microstromatales,incertae sedis,Pseudomicrostroma,phylloplanum,1
+9,2014-02-11,Resistant,Pendleton,West Virginia,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+10,2014-02-11,Resistant,Pendleton,West Virginia,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+11,2014-02-11,Resistant,Pendleton,West Virginia,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+12,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,simplex,1
+13,2014-02-11,Resistant,Pendleton,West Virginia,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+14,2014-02-11,Resistant,Pendleton,West Virginia,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,,1
+15,2014-02-11,Resistant,Pendleton,West Virginia,24,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+16,2014-02-11,Resistant,Pendleton,West Virginia,5,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,,,1
+17,2014-02-28,Susceptible,Crawford,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+18,2014-02-28,Susceptible,Crawford,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+19,2014-02-28,Susceptible,Crawford,Wisconsin,6,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+20,2014-02-28,Susceptible,Crawford,Wisconsin,1,Ascomycota,,,,,,0
+21,2014-02-28,Susceptible,Crawford,Wisconsin,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,,0
+22,2014-02-28,Susceptible,Crawford,Wisconsin,4,Ascomycota,Leotiomycetes,Helotiales,Hyaloscyphaceae,,,0
+23,2014-02-28,Susceptible,Crawford,Wisconsin,15,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+24,2014-02-28,Susceptible,Crawford,Wisconsin,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Cephalotrichum,stemonitis,0
+25,2014-02-28,Susceptible,Crawford,Wisconsin,5,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,0
+26,2014-02-28,Susceptible,Crawford,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+27,2014-02-28,Susceptible,Crawford,Wisconsin,3,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,beljakovae,0
+28,2014-02-28,Susceptible,Crawford,Wisconsin,50,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+29,2014-02-28,Susceptible,Crawford,Wisconsin,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+30,2014-02-28,Susceptible,Crawford,Wisconsin,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+31,2014-02-28,Susceptible,Crawford,Wisconsin,4,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,,0
+32,2014-03-04,Tolerant,Jasper,Iowa,1,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Auxarthron,thaxteri,0
+33,2014-03-04,Tolerant,Jasper,Iowa,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+34,2014-03-04,Tolerant,Jasper,Iowa,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,0
+35,2014-03-04,Tolerant,Jasper,Iowa,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+36,2014-03-04,Tolerant,Jasper,Iowa,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+37,2014-03-04,Tolerant,Jasper,Iowa,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,0
+38,2014-03-04,Tolerant,Jasper,Iowa,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,0
+39,2014-03-04,Tolerant,Jasper,Iowa,3,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,0
+40,2014-03-04,Tolerant,Jasper,Iowa,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,0
+41,2014-03-04,Tolerant,Jasper,Iowa,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+42,2014-03-04,Tolerant,Jasper,Iowa,50,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+43,2014-03-04,Tolerant,Jasper,Iowa,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+44,2014-03-04,Tolerant,Jasper,Iowa,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,halotolerans,0
+45,2014-03-04,Tolerant,Jasper,Iowa,2,Basidiomycota,Malasseziomycetes,Malasseziales,,,,0
+46,2014-03-04,Tolerant,Jasper,Iowa,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,0
+47,2014-03-04,Tolerant,Jasper,Iowa,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+48,2014-03-04,Tolerant,Jasper,Iowa,2,Ascomycota,Sordariomycetes,Sordariales,Cephalothecaceae,Phialemonium,atrogriseum,0
+49,2014-03-04,Tolerant,Jasper,Iowa,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,0
+50,2014-03-04,Tolerant,Jasper,Iowa,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+51,2014-03-04,Tolerant,Jasper,Iowa,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,0
+52,2014-03-04,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+53,2014-03-04,Resistant,Pendleton,West Virginia,8,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+54,2014-03-04,Resistant,Pendleton,West Virginia,49,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+55,2014-03-04,Resistant,Pendleton,West Virginia,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+56,2014-03-04,Resistant,Pendleton,West Virginia,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+57,2014-03-04,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+58,2014-03-04,Resistant,Pendleton,West Virginia,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+59,2014-03-04,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+60,2014-03-04,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+61,2014-03-04,Resistant,Pendleton,West Virginia,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+62,2014-03-04,Resistant,Pendleton,West Virginia,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+63,2014-03-04,Resistant,Pendleton,West Virginia,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,tephrensis,1
+64,2014-03-04,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+65,2014-03-04,Resistant,Pendleton,West Virginia,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+66,2014-03-04,Resistant,Pendleton,West Virginia,16,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+67,2014-03-04,Resistant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+68,2014-03-04,Resistant,Pendleton,West Virginia,52,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+69,2014-03-04,Tolerant,Pendleton,West Virginia,3,Ascomycota,Eurotiomycetes,Onygenales,,,,1
+70,2014-03-04,Tolerant,Pendleton,West Virginia,2,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,,1
+71,2014-03-04,Tolerant,Pendleton,West Virginia,7,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,aurantiogriseum,1
+72,2014-03-04,Tolerant,Pendleton,West Virginia,3,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,,,1
+73,2014-03-04,Tolerant,Pendleton,West Virginia,1,Ascomycota,Eurotiomycetes,Onygenales,,,,1
+74,2014-03-04,Tolerant,Pendleton,West Virginia,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+75,2014-03-04,Tolerant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kluyveromyces,lactis,1
+76,2014-03-04,Tolerant,Pendleton,West Virginia,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+77,2014-03-04,Tolerant,Pendleton,West Virginia,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+78,2014-03-04,Tolerant,Pendleton,West Virginia,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+79,2014-03-10,Susceptible,Richland,Wisconsin,1,Ascomycota,Eurotiomycetes,Onygenales,,,,0
+80,2014-03-10,Susceptible,Richland,Wisconsin,15,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+81,2014-03-10,Susceptible,Richland,Wisconsin,2,Ascomycota,Sordariomycetes,Hypocreales,,,,0
+82,2014-03-10,Susceptible,Richland,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+83,2014-03-10,Susceptible,Richland,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+84,2014-03-10,Susceptible,Richland,Wisconsin,3,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,,0
+85,2014-03-10,Susceptible,Richland,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+86,2014-03-10,Susceptible,Richland,Wisconsin,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+87,2014-03-10,Susceptible,Richland,Wisconsin,6,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,,0
+88,2014-03-10,Susceptible,Richland,Wisconsin,1,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,,0
+89,2014-03-10,Susceptible,Richland,Wisconsin,4,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,,0
+90,2014-03-10,Susceptible,Richland,Wisconsin,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+91,2014-03-10,Susceptible,Richland,Wisconsin,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+92,2014-03-10,Susceptible,Richland,Wisconsin,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+93,2014-03-10,Susceptible,Richland,Wisconsin,1,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,,0
+94,2014-03-10,Susceptible,Richland,Wisconsin,8,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,0
+95,2014-03-10,Susceptible,Richland,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+96,2014-03-10,Susceptible,Richland,Wisconsin,200,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+97,2014-03-04,Susceptible,Trigg,Kentucky,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+98,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+99,2014-03-04,Susceptible,Trigg,Kentucky,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+100,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+101,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+102,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+103,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+104,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+105,2014-03-04,Susceptible,Trigg,Kentucky,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+106,2014-03-04,Susceptible,Trigg,Kentucky,25,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+107,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+108,2014-03-04,Susceptible,Trigg,Kentucky,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+109,2014-03-04,Susceptible,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Cystofilobasidium,macerans,1
+110,2014-03-04,Susceptible,Trigg,Kentucky,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+111,2014-03-04,Susceptible,Trigg,Kentucky,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+112,2014-03-04,Susceptible,Trigg,Kentucky,42,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+113,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+114,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+115,2014-03-04,Susceptible,Trigg,Kentucky,41,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+116,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+117,2014-03-04,Susceptible,Trigg,Kentucky,28,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+118,2014-03-04,Susceptible,Trigg,Kentucky,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+119,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+120,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+121,2014-03-04,Susceptible,Trigg,Kentucky,73,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+122,2014-03-04,Susceptible,Trigg,Kentucky,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+123,2014-03-04,Susceptible,Trigg,Kentucky,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+124,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+125,2014-03-04,Tolerant,Trigg,Kentucky,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+126,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,,1
+127,2014-03-04,Tolerant,Trigg,Kentucky,15,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+128,2014-03-04,Tolerant,Trigg,Kentucky,2,Ascomycota,,,,,,1
+129,2014-03-04,Susceptible,Trigg,Kentucky,400,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+130,2014-03-04,Susceptible,Trigg,Kentucky,30,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+131,2014-03-04,Susceptible,Trigg,Kentucky,6,Ascomycota,Leotiomycetes,Helotiales,incertae sedis,Cadophora,gregata,1
+132,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,,,1
+133,2014-03-04,Susceptible,Trigg,Kentucky,36,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+134,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+135,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+136,2014-03-04,Tolerant,Trigg,Kentucky,4,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+137,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Geomyces,auratus,1
+138,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+139,2014-03-04,Tolerant,Trigg,Kentucky,3,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+140,2014-03-04,Tolerant,Trigg,Kentucky,200,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+141,2014-03-04,Susceptible,Trigg,Kentucky,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+142,2014-03-04,Susceptible,Trigg,Kentucky,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+143,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,,1
+144,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+145,2014-03-04,Tolerant,Trigg,Kentucky,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+146,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,,1
+147,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+148,2014-03-04,Susceptible,Trigg,Kentucky,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+149,2014-03-04,Tolerant,Trigg,Kentucky,11,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+150,2014-03-04,Tolerant,Trigg,Kentucky,42,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+151,2014-03-04,Tolerant,Trigg,Kentucky,52,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+152,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+153,2014-03-04,Tolerant,Trigg,Kentucky,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+154,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+155,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+156,2014-03-04,Tolerant,Trigg,Kentucky,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+157,2014-03-04,Tolerant,Trigg,Kentucky,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+158,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+159,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+160,2014-03-04,Tolerant,Trigg,Kentucky,300,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+161,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+162,2014-03-04,Tolerant,Trigg,Kentucky,20,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+163,2014-03-04,Tolerant,Trigg,Kentucky,9,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+164,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+165,2014-03-04,Tolerant,Trigg,Kentucky,12,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+166,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+167,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+168,2014-03-04,Tolerant,Trigg,Kentucky,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+169,2014-03-04,Tolerant,Trigg,Kentucky,8,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+170,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+171,2014-03-04,Tolerant,Trigg,Kentucky,8,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+172,2014-03-04,Tolerant,Trigg,Kentucky,300,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+173,2014-03-04,Tolerant,Trigg,Kentucky,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+174,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+175,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+176,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+177,2014-03-04,Tolerant,Trigg,Kentucky,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+178,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+179,2014-03-04,Tolerant,Trigg,Kentucky,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+180,2014-03-04,Tolerant,Trigg,Kentucky,37,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+181,2014-03-04,Tolerant,Trigg,Kentucky,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+182,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+183,2014-03-04,Tolerant,Trigg,Kentucky,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+184,2014-03-04,Tolerant,Trigg,Kentucky,50,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+185,2014-03-04,Tolerant,Trigg,Kentucky,10,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+186,2014-03-04,Tolerant,Trigg,Kentucky,30,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+187,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+188,2014-03-04,Tolerant,Trigg,Kentucky,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+189,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+190,2014-03-04,Tolerant,Trigg,Kentucky,5,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+191,2014-03-04,Tolerant,Trigg,Kentucky,5,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+192,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+193,2014-03-04,Tolerant,Trigg,Kentucky,53,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+194,2014-03-04,Tolerant,Trigg,Kentucky,50,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+195,2014-03-04,Tolerant,Trigg,Kentucky,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,,1
+196,2014-03-04,Tolerant,Trigg,Kentucky,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+197,2014-03-04,Tolerant,Trigg,Kentucky,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+198,2014-03-04,Tolerant,Trigg,Kentucky,300,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+199,2014-03-04,Tolerant,Trigg,Kentucky,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+200,2014-03-04,Tolerant,Trigg,Kentucky,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+201,2014-03-04,Tolerant,Trigg,Kentucky,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,1
+202,2014-03-04,Susceptible,Trigg,Kentucky,56,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+203,2014-03-04,Susceptible,Trigg,Kentucky,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+204,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,,1
+205,2014-03-04,Susceptible,Trigg,Kentucky,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,,1
+206,2014-03-04,Susceptible,Trigg,Kentucky,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+207,2014-03-04,Tolerant,Trigg,Kentucky,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+208,2014-03-04,Tolerant,Trigg,Kentucky,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+209,2014-03-19,unassigned,Ulster,New York,53,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+210,2014-03-19,unassigned,Ulster,New York,24,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+211,2014-03-19,unassigned,Ulster,New York,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+212,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+213,2014-03-19,unassigned,Ulster,New York,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+214,2014-03-19,unassigned,Ulster,New York,8,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+215,2014-03-19,unassigned,Ulster,New York,11,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+216,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+217,2014-03-19,unassigned,Ulster,New York,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+218,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+219,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+220,2014-03-19,unassigned,Ulster,New York,3,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+221,2014-03-19,unassigned,Ulster,New York,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+222,2014-03-19,unassigned,Ulster,New York,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+223,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+224,2014-03-19,unassigned,Ulster,New York,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+225,2014-03-19,unassigned,Ulster,New York,46,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+226,2014-03-19,unassigned,Ulster,New York,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+227,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+228,2014-03-19,unassigned,Ulster,New York,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+229,2014-03-19,unassigned,Ulster,New York,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+230,2014-03-19,unassigned,Ulster,New York,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+231,2014-03-19,unassigned,Ulster,New York,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+232,2014-03-19,unassigned,Ulster,New York,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+233,2014-03-19,unassigned,Ulster,New York,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+234,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+235,2014-03-19,unassigned,Ulster,New York,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+236,2014-03-19,unassigned,Ulster,New York,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+237,2014-03-19,unassigned,Ulster,New York,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,simplex,1
+238,2014-03-19,unassigned,Ulster,New York,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,,1
+239,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+240,2014-03-19,unassigned,Ulster,New York,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+241,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+242,2014-03-19,unassigned,Ulster,New York,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,,1
+243,2014-03-19,unassigned,Ulster,New York,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+244,2014-03-19,unassigned,Ulster,New York,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+245,2014-03-19,unassigned,Ulster,New York,1,Mucoromycota,Mucoromycetes,Mucorales,Mucoraceae,Helicostylum,pulchrum,1
+246,2014-03-19,unassigned,Ulster,New York,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+247,2014-03-19,unassigned,Ulster,New York,70,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+248,2014-03-19,unassigned,Ulster,New York,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+249,2014-03-19,unassigned,Ulster,New York,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+250,2014-03-19,unassigned,Ulster,New York,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,1
+251,2014-03-19,unassigned,Ulster,New York,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,1
+252,2014-03-19,unassigned,Ulster,New York,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+253,2014-03-19,unassigned,Ulster,New York,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+254,2014-03-19,unassigned,Ulster,New York,9,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+255,2014-03-19,unassigned,Ulster,New York,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+256,2014-03-19,unassigned,Ulster,New York,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,1
+257,2014-03-19,unassigned,Ulster,New York,9,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+258,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+259,2014-03-28,Susceptible,Grant,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+260,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+261,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+262,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+263,2014-03-28,Susceptible,Grant,Wisconsin,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,1
+264,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+265,2014-03-28,Susceptible,Grant,Wisconsin,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+266,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+267,2014-03-28,Susceptible,Grant,Wisconsin,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+268,2014-03-28,Susceptible,Grant,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+269,2014-03-28,Susceptible,Grant,Wisconsin,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+270,2014-03-28,Susceptible,Grant,Wisconsin,10,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+271,2014-03-28,Susceptible,Grant,Wisconsin,63,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+272,2014-03-28,Susceptible,Grant,Wisconsin,50,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+273,2014-03-28,Susceptible,Grant,Wisconsin,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+274,2014-03-28,Susceptible,Grant,Wisconsin,1,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Arthroderma,,1
+275,2014-03-28,Susceptible,Grant,Wisconsin,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+276,2014-03-28,Susceptible,Grant,Wisconsin,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+277,2014-03-28,Susceptible,Grant,Wisconsin,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+278,2014-03-28,Susceptible,Grant,Wisconsin,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+279,2014-03-28,Susceptible,Grant,Wisconsin,75,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+280,2014-03-28,Susceptible,Grant,Wisconsin,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+281,2015-01-15,unassigned,Hamilton,New York,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+282,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+283,2015-01-15,unassigned,Hamilton,New York,59,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+284,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+285,2015-01-15,unassigned,Hamilton,New York,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+286,2015-01-15,unassigned,Hamilton,New York,6,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+287,2015-01-15,unassigned,Hamilton,New York,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,,1
+288,2015-01-15,unassigned,Hamilton,New York,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Geomyces,,1
+289,2015-01-15,unassigned,Hamilton,New York,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+290,2015-01-15,unassigned,Hamilton,New York,17,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+291,2015-01-15,unassigned,Hamilton,New York,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+292,2015-01-15,unassigned,Hamilton,New York,51,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+293,2015-01-15,unassigned,Hamilton,New York,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,1
+294,2015-01-15,unassigned,Hamilton,New York,18,Basidiomycota,Tremellomycetes,Holtermanniales,incertae sedis,Holtermanniella,takashimae,1
+295,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+296,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+297,2015-01-15,unassigned,Hamilton,New York,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+298,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+299,2015-01-15,unassigned,Hamilton,New York,1,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,1
+300,2015-01-15,unassigned,Hamilton,New York,7,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,1
+301,2015-01-15,unassigned,Hamilton,New York,35,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+302,2015-01-15,unassigned,Hamilton,New York,53,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+303,2015-01-15,unassigned,Hamilton,New York,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,1
+304,2015-01-15,unassigned,Hamilton,New York,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,1
+305,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+306,2015-01-15,unassigned,Hamilton,New York,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+307,2015-01-15,unassigned,Hamilton,New York,25,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+308,2015-01-15,unassigned,Hamilton,New York,62,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+309,2015-01-15,unassigned,Hamilton,New York,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+310,2015-01-15,unassigned,Hamilton,New York,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+311,2015-01-15,unassigned,Hamilton,New York,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+312,2015-01-15,unassigned,Hamilton,New York,1,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,1
+313,2015-01-15,unassigned,Hamilton,New York,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+314,2015-01-15,unassigned,Hamilton,New York,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,1
+315,2015-01-15,unassigned,Hamilton,New York,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,1
+316,2015-01-15,unassigned,Hamilton,New York,16,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+317,2015-01-15,unassigned,Hamilton,New York,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Yamadazyma,phyllophila,1
+318,2015-01-15,unassigned,Hamilton,New York,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+319,2015-01-15,unassigned,Hamilton,New York,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+320,2015-01-15,unassigned,Hamilton,New York,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+321,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+322,2015-01-15,unassigned,Hamilton,New York,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+323,2015-01-15,unassigned,Hamilton,New York,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+324,2015-01-15,unassigned,Hamilton,New York,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+325,2015-01-15,unassigned,Hamilton,New York,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudeurotium,,1
+326,2015-01-15,unassigned,Hamilton,New York,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+327,2015-01-15,unassigned,Hamilton,New York,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+328,2015-01-15,unassigned,Hamilton,New York,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+329,2015-01-15,unassigned,Hamilton,New York,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+330,2015-01-15,unassigned,Hamilton,New York,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+331,2015-01-15,unassigned,Hamilton,New York,67,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,1
+332,2015-01-15,unassigned,Hamilton,New York,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+400,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,,,0
+401,2015-02-18,Tolerant,Iowa,Wisconsin,71,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,0
+402,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+403,2015-02-18,Tolerant,Iowa,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+404,2015-02-18,Tolerant,Iowa,Wisconsin,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+405,2015-02-18,Tolerant,Iowa,Wisconsin,32,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+406,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+407,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+408,2015-02-18,Tolerant,Iowa,Wisconsin,4,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,,0
+409,2015-02-18,Tolerant,Iowa,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+410,2015-02-18,Tolerant,Iowa,Wisconsin,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,tephrensis,0
+411,2015-02-18,Tolerant,Iowa,Wisconsin,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,0
+412,2015-02-18,Tolerant,Iowa,Wisconsin,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+413,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+414,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+415,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+416,2015-02-18,Tolerant,Iowa,Wisconsin,45,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+417,2015-02-18,Tolerant,Iowa,Wisconsin,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Hannaella,luteola,0
+418,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+419,2015-02-18,Tolerant,Iowa,Wisconsin,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,0
+420,2015-02-18,Tolerant,Iowa,Wisconsin,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Hannaella,oryzae,0
+421,2015-02-18,Tolerant,Iowa,Wisconsin,15,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+422,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Dothideomycetes,Dothideomycetes_ord_Incertae_sedis,Eremomycetaceae,,,0
+423,2015-02-18,Tolerant,Iowa,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,,,0
+424,2015-02-18,Tolerant,Iowa,Wisconsin,45,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,0
+425,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+426,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+427,2015-02-18,Tolerant,Iowa,Wisconsin,4,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Mycosphaerella,tassiana,0
+428,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+429,2015-02-18,Tolerant,Iowa,Wisconsin,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+430,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+431,2015-02-18,Tolerant,Iowa,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+432,2015-02-18,Tolerant,Iowa,Wisconsin,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+433,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+434,2015-02-18,Tolerant,Iowa,Wisconsin,9,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+435,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+436,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+437,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,,0
+438,2015-02-18,Tolerant,Iowa,Wisconsin,2,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Guehomyces,pullulans,0
+439,2015-02-18,Tolerant,Iowa,Wisconsin,8,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+440,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+441,2015-02-18,Tolerant,Iowa,Wisconsin,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+442,2015-02-18,Tolerant,Iowa,Wisconsin,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+443,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,0
+444,2015-02-18,Tolerant,Iowa,Wisconsin,9,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+445,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,,,0
+446,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+447,2015-02-18,Tolerant,Iowa,Wisconsin,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+448,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+449,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+450,2015-02-18,Tolerant,Iowa,Wisconsin,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+451,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+452,2015-02-18,Tolerant,Iowa,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+453,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+454,2015-02-18,Tolerant,Iowa,Wisconsin,8,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+455,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,,0
+456,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,bialowiezense,0
+457,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,0
+458,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+459,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,,0
+460,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,corylophilum,0
+461,2015-02-18,Tolerant,Iowa,Wisconsin,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+462,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,,0
+463,2015-02-18,Tolerant,Iowa,Wisconsin,33,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+464,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+465,2015-02-18,Tolerant,Iowa,Wisconsin,17,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+466,2015-02-18,Tolerant,Iowa,Wisconsin,33,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+467,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+468,2015-02-18,Tolerant,Iowa,Wisconsin,33,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+469,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+470,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+471,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Sordariomycetes,Hypocreales,Clavicipitaceae,Metacordyceps,chlamydosporia,0
+472,2015-02-18,Tolerant,Iowa,Wisconsin,29,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+473,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+474,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+475,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+476,2015-02-18,Tolerant,Iowa,Wisconsin,20,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+477,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+478,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+479,2015-02-18,Tolerant,Iowa,Wisconsin,88,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+480,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+481,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+482,2015-02-18,Tolerant,Iowa,Wisconsin,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+483,2015-02-18,Tolerant,Iowa,Wisconsin,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,,0
+484,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Humicola,,0
+485,2015-02-18,Tolerant,Iowa,Wisconsin,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+486,2015-02-18,Tolerant,Iowa,Wisconsin,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+487,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+488,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+489,2015-02-18,Tolerant,Iowa,Wisconsin,39,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+490,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,,0
+491,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,mexicana,0
+492,2015-02-18,Tolerant,Iowa,Wisconsin,20,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+493,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+494,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+495,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Phialophora,hyalina,0
+496,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+497,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Trichomonascaceae,Trichomonascus,apis,0
+498,2015-02-18,Tolerant,Iowa,Wisconsin,18,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+499,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+500,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+501,2015-02-18,Tolerant,Iowa,Wisconsin,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+502,2015-02-18,Tolerant,Iowa,Wisconsin,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+503,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+504,2015-02-18,Tolerant,Iowa,Wisconsin,30,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+505,2015-02-18,Tolerant,Iowa,Wisconsin,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+506,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Auxarthron,umbrinum,0
+507,2015-02-18,Tolerant,Iowa,Wisconsin,3,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,,0
+508,2015-02-18,Tolerant,Iowa,Wisconsin,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+509,2015-02-18,Tolerant,Iowa,Wisconsin,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+510,2015-02-18,Tolerant,Iowa,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+511,2015-02-18,Tolerant,Iowa,Wisconsin,2,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,,0
+518,2015-01-28,Susceptible,Crawford,Wisconsin,2,Ascomycota,,,,,,0
+519,2015-01-28,Susceptible,Crawford,Wisconsin,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,0
+520,2015-01-28,Susceptible,Crawford,Wisconsin,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+521,2015-01-28,Susceptible,Crawford,Wisconsin,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+522,2015-01-28,Susceptible,Crawford,Wisconsin,4,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,0
+523,2015-01-28,Susceptible,Crawford,Wisconsin,26,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,0
+524,2015-01-29,Susceptible,Richland,Wisconsin,22,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,0
+525,2015-01-29,Susceptible,Richland,Wisconsin,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,0
+526,2015-01-29,Susceptible,Richland,Wisconsin,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+527,2015-01-29,Susceptible,Richland,Wisconsin,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+528,2015-01-29,Susceptible,Richland,Wisconsin,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,lanosoniveum,0
+529,2015-01-29,Susceptible,Richland,Wisconsin,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+530,2015-02-05,Susceptible,Iron,Wisconsin,4,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,,1
+531,2015-02-05,Susceptible,Iron,Wisconsin,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,1
+532,2015-02-05,Susceptible,Iron,Wisconsin,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,1
+533,2015-02-05,Susceptible,Iron,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+534,2015-02-05,Susceptible,Iron,Wisconsin,8,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudeurotium,,1
+535,2015-02-05,Susceptible,Iron,Wisconsin,4,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,1
+536,2015-02-05,Susceptible,Iron,Wisconsin,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+537,2015-02-05,Susceptible,Iron,Wisconsin,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,1
+538,2015-02-05,Susceptible,Iron,Wisconsin,8,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudeurotium,,1
+539,2015-02-05,Susceptible,Iron,Wisconsin,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+540,2015-02-05,Susceptible,Iron,Wisconsin,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+541,2015-02-05,Susceptible,Iron,Wisconsin,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+542,2015-02-05,Susceptible,Iron,Wisconsin,1,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,1
+543,2015-02-05,Susceptible,Iron,Wisconsin,4,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+544,2015-02-05,Susceptible,Iron,Wisconsin,4,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,,1
+545,2015-02-05,Susceptible,Iron,Wisconsin,5,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,1
+546,2015-02-05,Susceptible,Iron,Wisconsin,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,,1
+547,2015-02-05,Susceptible,Iron,Wisconsin,2,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,1
+548,2015-02-05,Susceptible,Iron,Wisconsin,1,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,mexicana,1
+549,2015-02-05,Susceptible,Iron,Wisconsin,8,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,,1
+550,2015-02-05,Susceptible,Iron,Wisconsin,2,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,mexicana,1
+551,2015-02-05,Susceptible,Iron,Wisconsin,10,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,,1
+552,2015-02-05,Susceptible,Iron,Wisconsin,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,1
+559,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+560,2015-02-11,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+561,2015-02-11,Susceptible,Jackson,Alabama,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,0
+562,2015-02-11,Tolerant,Jackson,Alabama,31,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+563,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+564,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+565,2015-02-11,Tolerant,Jackson,Alabama,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+566,2015-02-11,Tolerant,Jackson,Alabama,1,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Auxarthron,thaxteri,0
+567,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+568,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+569,2015-02-11,Tolerant,Jackson,Alabama,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+570,2015-02-11,Tolerant,Jackson,Alabama,106,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+571,2015-02-11,Tolerant,Jackson,Alabama,10,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+572,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+573,2015-02-11,Tolerant,Jackson,Alabama,4,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+574,2015-02-11,Tolerant,Jackson,Alabama,7,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+575,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+576,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+577,2015-02-11,Tolerant,Jackson,Alabama,9,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+578,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+579,2015-02-11,Tolerant,Jackson,Alabama,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+580,2015-02-11,Tolerant,Jackson,Alabama,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+581,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+582,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+583,2015-02-11,Tolerant,Jackson,Alabama,62,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+584,2015-02-11,Tolerant,Jackson,Alabama,53,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+585,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+586,2015-02-11,Tolerant,Jackson,Alabama,38,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+587,2015-02-11,Tolerant,Jackson,Alabama,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+588,2015-02-11,Tolerant,Jackson,Alabama,7,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+589,2015-02-11,Tolerant,Jackson,Alabama,103,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+590,2015-02-11,Tolerant,Jackson,Alabama,28,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+591,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+592,2015-02-11,Tolerant,Jackson,Alabama,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+593,2015-02-11,Tolerant,Jackson,Alabama,27,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+594,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+595,2015-02-11,Tolerant,Jackson,Alabama,13,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,namibiae,0
+596,2015-02-11,Tolerant,Jackson,Alabama,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,0
+597,2015-02-11,Tolerant,Jackson,Alabama,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+598,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+599,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,,0
+600,2015-02-11,Susceptible,Jackson,Alabama,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,0
+601,2015-02-11,Tolerant,Jackson,Alabama,17,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+602,2015-02-11,Tolerant,Jackson,Alabama,48,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+603,2015-02-11,Tolerant,Jackson,Alabama,6,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,glandicola,0
+604,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+605,2015-02-11,Tolerant,Jackson,Alabama,55,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+606,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+607,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+608,2015-02-11,Tolerant,Jackson,Alabama,17,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+609,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+610,2015-02-11,Tolerant,Jackson,Alabama,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+611,2015-02-11,Tolerant,Jackson,Alabama,9,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+612,2015-02-11,Tolerant,Jackson,Alabama,2,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+613,2015-02-11,Tolerant,Jackson,Alabama,18,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+614,2015-02-11,Tolerant,Jackson,Alabama,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+615,2015-02-11,Susceptible,Jackson,Alabama,1,Ascomycota,Saccharomycetes,Saccharomycetales,incertae sedis,Candida,palmioleophila,0
+616,2015-02-11,Susceptible,Jackson,Alabama,7,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,,,0
+617,2015-02-11,Tolerant,Jackson,Alabama,45,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+618,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+619,2015-02-11,Tolerant,Jackson,Alabama,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+620,2015-02-11,Tolerant,Jackson,Alabama,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+621,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Mycosphaerella,tassiana,0
+622,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+623,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+624,2015-02-11,Tolerant,Jackson,Alabama,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+625,2015-02-11,Tolerant,Jackson,Alabama,8,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+626,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+627,2015-02-11,Tolerant,Jackson,Alabama,29,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+628,2015-02-11,Tolerant,Jackson,Alabama,11,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+629,2015-02-11,Tolerant,Jackson,Alabama,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+630,2015-02-11,Tolerant,Jackson,Alabama,13,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,0
+631,2015-02-11,Tolerant,Jackson,Alabama,3,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+632,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+633,2015-02-11,Tolerant,Jackson,Alabama,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+634,2015-02-11,Tolerant,Jackson,Alabama,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+635,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+636,2015-02-11,Tolerant,Jackson,Alabama,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+637,2015-02-11,Tolerant,Jackson,Alabama,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+638,2015-02-11,Tolerant,Jackson,Alabama,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+639,2015-02-11,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+640,2015-02-11,Tolerant,Jackson,Alabama,24,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+722,2015-03-10,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+723,2015-03-10,Tolerant,Jackson,Alabama,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+724,2015-03-10,Tolerant,Jackson,Alabama,13,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,,0
+725,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+726,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+727,2015-03-10,Tolerant,Jackson,Alabama,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+728,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+729,2015-03-10,Tolerant,Jackson,Alabama,12,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+730,2015-03-10,Tolerant,Jackson,Alabama,35,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+731,2015-03-10,Tolerant,Jackson,Alabama,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+732,2015-03-10,Tolerant,Jackson,Alabama,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+733,2015-03-10,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+734,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+735,2015-03-10,Tolerant,Jackson,Alabama,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+736,2015-03-10,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+737,2015-03-10,Tolerant,Jackson,Alabama,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+738,2015-03-10,Tolerant,Jackson,Alabama,9,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+739,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+740,2015-03-10,Tolerant,Jackson,Alabama,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+741,2015-03-10,Tolerant,Jackson,Alabama,13,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+742,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+743,2015-03-10,Tolerant,Jackson,Alabama,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,0
+744,2015-03-10,Tolerant,Jackson,Alabama,2,Ascomycota,Sordariomycetes,Xylariales,Xylariaceae,,,0
+745,2015-03-10,Tolerant,Jackson,Alabama,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+746,2015-03-10,Tolerant,Jackson,Alabama,4,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,0
+747,2015-03-10,Tolerant,Jackson,Alabama,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+748,2016-01-28,Tolerant,Centre,Pennsylvania,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+749,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+750,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Sordariomycetes,Sordariales,Cephalothecaceae,Cryptendoxyla,hypophloia,1
+751,2016-01-28,Tolerant,Centre,Pennsylvania,60,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+752,2016-01-28,Tolerant,Centre,Pennsylvania,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,,1
+753,2016-01-28,Tolerant,Centre,Pennsylvania,30,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,1
+754,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,1
+755,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+756,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,carmichaelii,1
+757,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Sordariomycetes,Microascales,incertae sedis,Wardomyces,humicola,1
+758,2016-01-28,Tolerant,Centre,Pennsylvania,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,,1
+759,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+760,2016-01-28,Tolerant,Centre,Pennsylvania,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+761,2016-01-28,Tolerant,Centre,Pennsylvania,23,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,1
+762,2016-01-28,Tolerant,Centre,Pennsylvania,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+763,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,,1
+764,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Eurotiomycetes,Onygenales,,,,1
+765,2016-01-28,Tolerant,Centre,Pennsylvania,1,Ascomycota,Leotiomycetes,Helotiales,Sclerotiniaceae,,,1
+766,2016-01-28,Tolerant,Centre,Pennsylvania,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+767,2016-02-26,Tolerant,Fayette,Pennsylvania,2,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,,1
+768,2017-01-28,Susceptible,Woodward,Oklahoma,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,vallenarense,0
+769,2017-01-28,Susceptible,Woodward,Oklahoma,100,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,,0
+770,2017-01-28,Susceptible,Woodward,Oklahoma,1,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,,0
+771,2017-01-28,Susceptible,Woodward,Oklahoma,1,Ascomycota,Eurotiomycetes,,,,,0
+772,2017-01-28,Susceptible,Woodward,Oklahoma,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,,0
+773,2017-01-28,Susceptible,Woodward,Oklahoma,9,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,0
+774,2017-03-15,Resistant,Columbia,Arkansas,7,Ascomycota,Eurotiomycetes,Onygenales,,,,1
+775,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Eurotiomycetes,Onygenales,,,,1
+776,2017-03-15,Resistant,Columbia,Arkansas,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,alpina,1
+777,2017-03-15,Resistant,Columbia,Arkansas,13,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+778,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+779,2017-03-15,Resistant,Columbia,Arkansas,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+780,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+781,2017-03-15,Resistant,Columbia,Arkansas,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+782,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+783,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,1
+784,2017-03-15,Resistant,Columbia,Arkansas,2,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,pini,1
+785,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,,,1
+786,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+787,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Sordariomycetes,Xylariales,Sporocadaceae,Neopestalotiopsis,,1
+788,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Sordariomycetes,Hypocreales,Hypocreaceae,Trichoderma,stellatum,1
+789,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Leotiomycetes,Helotiales,Dermateaceae,Mollisia,,1
+790,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,subtropicum,1
+791,2017-03-15,Resistant,Columbia,Arkansas,7,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Torulaspora,,1
+792,2017-03-15,Resistant,Columbia,Arkansas,8,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+793,2017-03-15,Resistant,Columbia,Arkansas,15,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+794,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Tremellomycetes,Tremellales,Tremellaceae,Cryptococcus,,1
+795,2017-03-15,Resistant,Columbia,Arkansas,75,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+796,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+797,2017-03-15,Resistant,Columbia,Arkansas,34,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,,1
+798,2017-03-15,Resistant,Columbia,Arkansas,11,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,,1
+799,2017-03-15,Resistant,Columbia,Arkansas,13,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,1
+800,2017-03-15,Resistant,Columbia,Arkansas,20,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,,1
+801,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Scopulariopsis,brumptii,1
+802,2017-03-15,Resistant,Columbia,Arkansas,2,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,1
+803,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Eurotiomycetes,Onygenales,,,,1
+804,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+805,2017-03-15,Resistant,Columbia,Arkansas,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+806,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+807,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,pinicola,1
+808,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Orbiliomycetes,Orbiliales,Orbiliaceae,,,1
+809,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Orbiliomycetes,Orbiliales,Orbiliaceae,Retiarius,,1
+810,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Leotiomycetes,Helotiales,,,,1
+811,2017-03-15,Resistant,Columbia,Arkansas,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,clonocystis,1
+812,2017-03-15,Resistant,Columbia,Arkansas,2,Basidiomycota,Cystobasidiomycetes,incertae sedis,Symmetrosporaceae,Symmetrospora,coprosmae,1
+813,2017-03-15,Resistant,Columbia,Arkansas,3,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,pinicola,1
+814,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,1
+815,2017-03-15,Resistant,Columbia,Arkansas,5,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,1
+816,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Cystobasidiomycetes,Erythrobasidiales,Erythrobasidiaceae,Erythrobasidium,hasegawianum,1
+817,2017-03-15,Resistant,Columbia,Arkansas,2,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,pinicola,1
+818,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,cylindrosporum,1
+819,2017-03-15,Resistant,Columbia,Arkansas,2,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,heveanensis,1
+820,2017-03-15,Resistant,Columbia,Arkansas,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+821,2017-03-15,Resistant,Columbia,Arkansas,17,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,1
+822,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Leotiomycetes,Helotiales,,,,1
+823,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,magnum,1
+824,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,magnum,1
+825,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,1
+826,2017-03-15,Resistant,Columbia,Arkansas,3,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,Kondoaceae,Kondoa,aeria,1
+827,2017-03-15,Resistant,Columbia,Arkansas,1,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,1
+828,2017-03-15,Resistant,Columbia,Arkansas,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,corylophilum,1
+834,2015-02-18,Tolerant,Iowa,Wisconsin,no fungi isolated,,,,,,,0
+835,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+836,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+837,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+838,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+839,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+840,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+841,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+842,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+843,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+844,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+845,2017-01-28,Susceptible,Woodward,Oklahoma,no fungi isolated,,,,,,,0
+846,2016-01-28,Tolerant,Centre,Pennsylvania,no fungi isolated,,,,,,,1
+847,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+848,2015-01-29,Susceptible,Richland,Wisconsin,no fungi isolated,,,,,,,0
+849,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+850,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+851,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+852,2015-01-29,Susceptible,Richland,Wisconsin,no fungi isolated,,,,,,,0
+853,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+854,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+855,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+856,2017-03-15,Resistant,Columbia,Arkansas,no fungi isolated,,,,,,,1
+863,2015-01-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+864,2015-01-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+865,2015-01-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+866,2015-01-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+867,2015-01-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+873,2015-02-11,Susceptible,Jackson,Alabama,no fungi isolated,,,,,,,0
+874,2015-02-11,Susceptible,Jackson,Alabama,no fungi isolated,,,,,,,0
+877,2014-02-11,Resistant,Pendleton,West Virginia,no fungi isolated,,,,,,,1
+878,2014-02-11,Resistant,Pendleton,West Virginia,no fungi isolated,,,,,,,1
+879,2014-02-11,Resistant,Pendleton,West Virginia,no fungi isolated,,,,,,,1
+880,2014-02-11,Resistant,Pendleton,West Virginia,no fungi isolated,,,,,,,1
+881,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+882,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+883,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+884,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+885,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+886,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+887,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+888,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+889,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+890,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+891,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+892,2014-02-28,Susceptible,Crawford,Wisconsin,no fungi isolated,,,,,,,0
+893,2014-03-04,Tolerant,Jasper,Iowa,no fungi isolated,,,,,,,0
+894,2014-03-10,Susceptible,Richland,Wisconsin,no fungi isolated,,,,,,,0
+898,2014-03-19,unassigned,Ulster,New York,no fungi isolated,,,,,,,1
+899,2014-03-19,unassigned,Ulster,New York,no fungi isolated,,,,,,,1
+900,2014-03-28,Susceptible,Grant,Wisconsin,no fungi isolated,,,,,,,1
+901,2014-03-28,Susceptible,Grant,Wisconsin,no fungi isolated,,,,,,,1
+902,2014-03-28,Susceptible,Grant,Wisconsin,no fungi isolated,,,,,,,1
+903,2014-03-28,Susceptible,Grant,Wisconsin,no fungi isolated,,,,,,,1
+904,2014-03-28,Susceptible,Grant,Wisconsin,no fungi isolated,,,,,,,1
+905,2014-03-28,Susceptible,Grant,Wisconsin,no fungi isolated,,,,,,,1
+301,2016-05-23,,Bear Lake,Idaho,no fungi isolated,,,,,,,0
+302,2016-05-23,,Bear Lake,Idaho,no fungi isolated,,,,,,,0
+303,2016-05-23,,Bear Lake,Idaho,no fungi isolated,,,,,,,0
+304,2016-05-23,,Bear Lake,Idaho,no fungi isolated,,,,,,,0
+305,2016-05-23,,Bear Lake,Idaho,2,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,,0
+306,2016-05-23,,Bear Lake,Idaho,no fungi isolated,,,,,,,0
+307,2016-05-23,,Bear Lake,Idaho,no fungi isolated,,,,,,,0
+435,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+436,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+437,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+438,2017-07-17,,Jackson,Oregon,3,Ascomycota,Dothideomycetes,Dothideales,Dothioraceae,,,0
+439,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+440,2017-07-17,,Jackson,Oregon,1,Basidiomycota,Tremellomycetes,Filobasidiales,Piskurozymaceae,Piskurozyma,capsuligena,0
+441,2017-07-17,,Jackson,Oregon,4,Ascomycota,Leotiomycetes,Helotiales,Helotiaceae,Collophora,,0
+442,2017-07-17,,Jackson,Oregon,9,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+443,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+444,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+445,2017-07-17,,Jackson,Oregon,no fungi isolated,,,,,,,0
+446,2017-08-16,,Jackson,Oregon,no fungi isolated,,,,,,,0
+447,2017-08-03,,Jackson,Oregon,4,Ascomycota,Dothideomycetes,Dothideales,Dothideaceae,Endoconidioma,populi,0
+448,2017-08-03,,Jackson,Oregon,no fungi isolated,,,,,,,0
+449,2017-08-03,,Jackson,Oregon,4,Basidiomycota,Tremellomycetes,Tremellales,Bulleraceae,Fonsecazyma,,0
+450,2017-08-03,,Jackson,Oregon,2,Basidiomycota,Tremellomycetes,Tremellales,Tremellaceae,Tremella,,0
+451,2017-08-03,,Jackson,Oregon,no fungi isolated,,,,,,,0
+452,2017-08-03,,Jackson,Oregon,no fungi isolated,,,,,,,0
+453,2017-07-19,,Jackson,Oregon,2,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+454,2017-07-19,,Jackson,Oregon,2,Ascomycota,Saccharomycetes,Saccharomycetales,,,,0
+455,2017-07-19,,Jackson,Oregon,no fungi isolated,,,,,,,0
+456,2017-07-19,,Jackson,Oregon,1,Ascomycota,Saccharomycetes,Saccharomycetales,,,,0
+457,2017-07-19,,Jackson,Oregon,4,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+458,2017-07-19,,Jackson,Oregon,10,Basidiomycota,Tremellomycetes,Filobasidiales,Piskurozymaceae,Piskurozyma,capsuligena,0
+459,2017-07-19,,Jackson,Oregon,no fungi isolated,,,,,,,0
+460,2017-07-19,,Jackson,Oregon,no fungi isolated,,,,,,,0
+461,2017-07-18,,Jackson,Oregon,no fungi isolated,,,,,,,0
+493,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+494,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+495,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+496,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+497,2015-02-11,,Hardeman,Texas,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+498,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+499,2015-02-11,,Hardeman,Texas,19,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+500,2015-02-11,,Hardeman,Texas,41,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+501,2015-02-11,,Hardeman,Texas,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+502,2015-02-11,,Hardeman,Texas,5,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+503,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+504,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+505,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+506,2015-02-11,,Hardeman,Texas,29,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+507,2015-02-11,,Hardeman,Texas,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+508,2015-02-11,,Hardeman,Texas,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,0
+509,2015-02-11,,Hardeman,Texas,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+510,2015-02-11,,Hardeman,Texas,50,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,namibiae,0
+511,2015-02-11,,Hardeman,Texas,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,guehoae,0
+512,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+513,2015-02-11,,Hardeman,Texas,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+514,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+515,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+516,2015-02-11,,Hardeman,Texas,3,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+517,2015-02-11,,Hardeman,Texas,6,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,0
+518,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+519,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+520,2015-02-11,,Hardeman,Texas,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+521,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+522,2015-02-11,,Hardeman,Texas,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+523,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+524,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+525,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+526,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+527,2015-02-11,,Hardeman,Texas,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+528,2015-02-11,,Hardeman,Texas,no fungi isolated,,,,,,,0
+529,2015-02-11,,Hardeman,Texas,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,0
+530,2015-02-11,,Hardeman,Texas,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,otae,0
+531,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+532,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+533,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+534,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+535,2017-01-31,,Garfield,Utah,2,Ascomycota,Dothideomycetes,Dothideales,,,,0
+536,2017-01-31,,Garfield,Utah,1,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Phialophora,hyalina,0
+537,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+538,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+539,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+540,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+541,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+542,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+543,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+544,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+545,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+546,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+547,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+548,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+549,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+550,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+551,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+552,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+553,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+554,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+555,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+556,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+557,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+558,2017-01-31,,Garfield,Utah,no fungi isolated,,,,,,,0
+559,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+560,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+561,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+562,2016-01-12,,Garfield,Utah,1,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,Talaromyces,,0
+563,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+564,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+565,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+566,2016-01-12,,Garfield,Utah,1,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,Talaromyces,,0
+567,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+568,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+569,2016-01-12,,Garfield,Utah,no fungi isolated,,,,,,,0
+570,2018-04-03,,King,Washington,7,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,1
+571,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+572,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+573,2018-04-03,,King,Washington,3,Basidiomycota,Tremellomycetes,Holtermanniales,Holtermanniales_fam_Incertae_sedis,Holtermanniella,takashimae,1
+574,2018-04-03,,King,Washington,3,Ascomycota,Taphrinomycetes,Taphrinales,Protomycetaceae,Protomyces,inouyei,1
+575,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+576,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+577,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+578,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+579,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+580,2018-04-03,,King,Washington,no fungi isolated,,,,,,,1
+581,2018-04-03,,King,Washington,2,Basidiomycota,Tremellomycetes,Holtermanniales,Holtermanniales_fam_Incertae_sedis,Holtermanniella,takashimae,1
+582,2016-04-28,,Thurston,Washington,14,Ascomycota,Saccharomycetes,Saccharomycetales,Trichomonascaceae,Blastobotrys,buckinghamii,0
+583,2016-04-28,,Thurston,Washington,20,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,,0
+584,2016-04-28,,Thurston,Washington,5,Ascomycota,Saccharomycetes,Saccharomycetales,Trichomonascaceae,Blastobotrys,buckinghamii,0
+585,2016-04-28,,Thurston,Washington,300,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,,0
+586,2016-04-28,,Thurston,Washington,2,Ascomycota,Saccharomycetes,Dothideales,,,,0
+587,2016-04-28,,Thurston,Washington,30,Ascomycota,Eurotiomycetes,Dothideales,Cyphellophoraceae,Cyphellophora,sessilis,0
+588,2016-04-28,,Thurston,Washington,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,0
+589,2016-04-28,,Thurston,Washington,100,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,0
+590,2016-01-05,,Platte,Wyoming,1,Ascomycota,Sordariomycetes,Hypocreales,Nectriaceae,Nectria,pseudotrichia,0
+591,2016-01-05,,Platte,Wyoming,no fungi isolated,,,,,,,0
+592,2016-01-05,,Platte,Wyoming,no fungi isolated,,,,,,,0
+593,2015-12-21,,Goshen,Wyoming,18,Ascomycota,Dothideomycetes,Dothideales,,,,0
+594,2015-12-21,,Goshen,Wyoming,1,Ascomycota,Dothideomycetes,Mytilinidiales,Mytilinidiales_fam_Incertae_sedis,Halokirschsteiniothelia,maritima,0
+595,2015-12-21,,Goshen,Wyoming,1,Ascomycota,Leotiomycetes,Helotiales,Vibrisseaceae,Phialocephala,fluminis,0

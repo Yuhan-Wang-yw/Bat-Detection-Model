@@ -1,0 +1,907 @@
+Sample Collection Date,Sample ID No.,Host Group,Host Species,Sample Location - County,Sample Location - State,Sample Location - Site,Isolate_ID_No.,Genbank,CFU,Fungus Classification - Phylum,Fungus Classification - Class,Fungus Classification - Order,Fungus Classification - Family,Fungus Classification -Genus,Fungus Classification - Species,OTU (cluster)
+20140211,24686_01,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_01_1SD,MK793795,6,Ascomycota,Eurotiomycetes,Onygenales,Gymnoascaceae,NA,NA,cluster115
+20140211,24686_01,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_01_2SD,MK793796,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140211,24686_02,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_02_1SD,MK793797,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140211,24686_02,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_02_2SD,MK793798,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_03,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_03_1SD,MK793799,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_04,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_04_1SD,MK793800,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_05,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_05_1SD,MK793801,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_06,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_06_1SD,MK793802,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_08,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_08_1SD,MK793803,3,Basidiomycota,Exobasidiomycetes,Microstromatales,incertae sedis,Pseudomicrostroma,phylloplanum,cluster40
+20140211,24686_08,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_08_2SD,MK793804,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_09,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_09_1SD,MK793805,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_10,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_10_1SD,MK793806,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_10,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_10_2SD,MK793807,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,simplex,cluster78
+20140211,24686_12,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_12_1SD,MK793808,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_14,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_14_1DTM,MK793809,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,NA,cluster158
+20140211,24686_14,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_14_1SD,MK793810,24,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140211,24686_14,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,24686_14_2SD,MK793811,5,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,NA,NA,cluster39
+20140228,24716_01,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_01_1DTM,MK793812,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140228,24716_01,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_01_1LNA,MK793813,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140228,24716_01,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_01_1SD,MK793814,6,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140228,24716_03,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_03_1DTM,MK793815,1,Ascomycota,NA,NA,NA,NA,NA,cluster144
+20140228,24716_03,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_03_1SD,MK793816,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,NA,cluster153
+20140228,24716_03,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_03_2SD,MK793817,4,Ascomycota,Leotiomycetes,Helotiales,Hyaloscyphaceae,NA,NA,cluster170
+20140228,24716_07,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_07_1LNA,MK793818,15,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140228,24716_08,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_08_1LNA,MK793819,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Cephalotrichum,stemonitis,cluster184
+20140228,24716_08,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_08_1SD,MK793820,5,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,cluster21
+20140228,24716_08,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_08_2LNA,MK793821,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140228,24716_13,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,24716_13_1SD,MK793822,3,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,beljakovae,cluster126
+20140228,24716_14,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_14_1LNA,MK793823,50,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140228,24716_19,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_19_1SD,MK793824,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140228,24716_19,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_19_2SD,MK793825,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140228,24716_19,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,24716_19_4SD,MK793826,4,Ascomycota,Dothideomycetes,Pleosporales,Pleosporaceae,Alternaria,NA,cluster70
+20140304,24728_02,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_02_1LNA,MK793827,1,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Auxarthron,thaxteri,cluster42
+20140304,24728_02,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_02_1SD,MK793828,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140304,24728_02,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_02_2SD,MK793829,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,cluster72
+20140304,24728_02,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_02_3SD,MK793830,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24728_05,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_05_1SD,MK793831,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24728_05,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_05_2SD,MK793832,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,cluster57
+20140304,24728_06,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_06_1SD,MK793833,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,cluster57
+20140304,24728_09,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_09_1SD,MK793834,3,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,cluster57
+20140304,24728_12,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_12_1SD,MK793835,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,cluster71
+20140304,24728_13,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_13_1SD,MK793836,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140304,24728_13,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_13_2SD,MK793837,50,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20140304,24728_13,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_13_3SD,MK793838,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24728_13,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_13_4SD,MK793839,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,halotolerans,cluster93
+20140304,24728_17,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_17_1LNA,MK793840,2,Basidiomycota,Malasseziomycetes,Malasseziales,NA,NA,NA,cluster119
+20140304,24728_17,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_17_1SD,MK793841,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,cluster71
+20140304,24728_17,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_17_2SD,MK793842,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24728_17,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_17_3SD,MK793843,2,Ascomycota,Sordariomycetes,Sordariales,Cephalothecaceae,Phialemonium,atrogriseum,cluster7
+20140304,24728_17,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_17_4SD,MK793844,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,cluster71
+20140304,24728_18,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_18_1DTM,MK793845,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140304,24728_18,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,24728_18_1SD,MK793846,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,cluster57
+20140304,24729_01,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_01_1SD,MK793847,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_02,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_02_1SD,MK793848,8,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_03,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_03_1SD,MK793849,49,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_04,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_04_1SD,MK793850,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_05,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_05_1SD,MK793851,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_06,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_06_1SD,MK793852,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_07,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_07_1SD,MK793853,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_08,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_08_1SD,MK793854,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_09,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_09_1SD,MK793855,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_10,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_10_1SD,MK793856,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_11,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_11_1SD,MK793857,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_12,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_12_1SD,MK793858,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,tephrensis,cluster47
+20140304,24729_12,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_12_2SD,MK793859,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,24729_13,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_13_1SD,MK793860,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_14,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_14_1SD,MK793861,16,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_15,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_15_1SD,MK793862,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,24729_16,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV2,24729_16_1SD,MK793863,52,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_1DTM,MK793864,3,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster108
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_1LNA,MK793865,2,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,NA,cluster98
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_1SD,MK793866,7,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,aurantiogriseum,cluster24
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_2DTM,MK793867,3,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,NA,NA,cluster125
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_2LNA,MK793868,1,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster108
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_2SD,MK793869,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_3LNA,MK793870,1,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Kluyveromyces,lactis,cluster116
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_3SD,MK793871,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster48
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_4LNA,MK793872,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20140304,24729_17,Tolerant,Eptesicus fuscus,Pendleton,WV,WV2,24729_17_4SD,MK793873,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140310,24738_02,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_02_1DTM,MK793874,1,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster81
+20140310,24738_02,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_02_1LNA,MK793875,15,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140310,24738_02,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_02_2LNA,MK793876,2,Ascomycota,Sordariomycetes,Hypocreales,NA,NA,NA,cluster88
+20140310,24738_05,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_05_1LNA,MK793877,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20140310,24738_05,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_05_1SD,MK793878,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140310,24738_05,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_05_2LNA,MK793879,3,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,NA,cluster99
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_1DTM,MK793880,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_1LNA,MK793881,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_1SD,MK793882,6,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,NA,cluster12
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_2DTM,MK793883,1,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,NA,cluster99
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_2LNA,MK793884,4,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,NA,cluster99
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_2SD,MK793885,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_3LNA,MK793886,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140310,24738_08,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_08_3SD,MK793887,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20140310,24738_11,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_11_1LNA,MK793888,1,Ascomycota,Eurotiomycetes,Chaetothyriales,Cyphellophoraceae,Cyphellophora,NA,cluster99
+20140310,24738_11,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_11_1SD,MK793889,8,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140310,24738_13,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_13_1SD,MK793890,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140310,24738_13,Susceptible,Myotis lucifugus,Richland,WI,WI1,24738_13_2LNA,MK793891,200,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-01,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_01_1SD,MK793892,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-02,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_02_1DTM,MK793893,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-03,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_03_1SD,MK793894,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-04,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_04_1DTM,MK793895,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-04,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_04_1LNA,MK793896,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-04,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_04_1SD,MK793897,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-05,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_05_1DTM,MK793898,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-05,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_05_1SD,MK793899,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-06,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_06_1SD,MK793900,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-07,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_07_1SD,MK793901,25,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-08,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_08_1SD,MK793902,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-09,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_09_1SD,MK793903,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-10,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_10_1SD,MK793904,1,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Cystofilobasidium,macerans,cluster130
+20140304,44767-10,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_10_2SD,MK793905,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-11,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_11_1SD,MK793906,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-12,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_12_1SD,MK793907,42,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-13,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_13_1DTM,MK793908,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-13,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_13_1SD,MK793909,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-14,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_14_1SD,MK793910,41,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-15,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_15_1SD,MK793911,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-16,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_16_1SD,MK793912,28,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-17,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_17_1SD,MK793913,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-18,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_18_1SD,MK793914,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-19,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_19_1SD,MK793915,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-20,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_20_1SD,MK793916,73,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-21,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_21_1SD,MK793917,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-22,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_22_1SD,MK793918,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-23,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_23_1DTM,MK793919,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-23,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_23_1SD,MK793920,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-23,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_23_2SD,MK793921,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,NA,cluster62
+20140304,44767-23,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_23_3SD,MK793922,15,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,44767-23,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_23_4SD,MK793923,2,Ascomycota,NA,NA,NA,NA,NA,cluster144
+20140304,44767-24,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_24_1SD,MK793924,400,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-25,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_25_1SD,MK793925,30,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-26,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_26_1SD,MK793926,6,Ascomycota,Leotiomycetes,Helotiales,incertae sedis,Cadophora,gregata,cluster143
+20140304,44767-26,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_26_2SD,MK793927,1,Ascomycota,Dothideomycetes,Pleosporales,Didymellaceae,NA,NA,cluster94
+20140304,44767-26,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_26_3SD,MK793928,36,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-27,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_27_1DTM,MK793929,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-27,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_27_1SD,MK793930,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-27,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_27_2SD,MK793931,4,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-28,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_28_1LNA,MK793932,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Geomyces,auratus,cluster55
+20140304,44767-28,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_28_1SD,MK793933,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-28,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_28_2SD,MK793934,3,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-28,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_28_3SD,MK793935,200,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-29,Susceptible,Myotis lucifugus,Trigg,KY,KY1,44767_29_1SD,MK793936,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-30,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_30_1SD,MK793937,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-31,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_31_1LNA,MK793938,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,NA,cluster77
+20140304,44767-31,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_31_1SD,MK793939,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-31,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_31_2LNA,MK793940,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-31,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_31_2SD,MK793941,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,NA,cluster62
+20140304,44767-31,Tolerant,Myotis grisescens,Trigg,KY,KY1,44767_31_3SD,MK793942,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,44767-32,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_32_1SD,MK793943,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-33,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_33_1LNA,MK793944,11,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-33,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_33_1SD,MK793945,42,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-33,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_33_2SD,MK793946,52,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-34,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_34_1DTM,MK793947,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20140304,44767-34,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_34_1LNA,MK793948,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-34,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_34_1SD,MK793949,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,44767-34,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_34_2LNA,MK793950,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-34,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_34_2SD,MK793951,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-34,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_34_3SD,MK793952,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-35,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_35_1DTM,MK793953,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-35,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_35_1LNA,MK793954,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-35,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_35_1SD,MK793955,300,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-35,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_35_2LNA,MK793956,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-35,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_35_2SD,MK793957,20,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-35,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_35_3SD,MK793958,9,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-36,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_36_1LNA,MK793959,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-36,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_36_1SD,MK793960,12,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-36,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_36_2SD,MK793961,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_1DTM,MK793962,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_1LNA,MK793963,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_1SD,MK793964,8,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_2LNA,MK793965,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_2SD,MK793966,8,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_3SD,MK793967,300,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-37,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_37_4SD,MK793968,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-38,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_38_1LNA,MK793969,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-38,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_38_1SD,MK793970,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-38,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_38_2LNA,MK793971,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-38,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_38_2SD,MK793972,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-39,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_39_1LNA,MK793973,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-39,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_39_1SD,MK793974,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-39,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_39_2SD,MK793975,37,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-39,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_39_3SD,MK793976,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-40,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_40_1DTM,MK793977,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-40,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_40_1LNA,MK793978,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-40,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_40_1SD,MK793979,50,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-40,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_40_2SD,MK793980,10,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-41,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_41_1SD,MK793981,30,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-41,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_41_2LNA,MK793982,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-41,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_41_2SD,MK793983,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-41,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_41_3SD,,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-42,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_42_1DTM,MK793984,5,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-42,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_42_1SD,MK793985,5,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140304,44767-42,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_42_2LNA,MK793986,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-42,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_42_2SD,MK793987,53,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-42,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_42_3SD,MK793988,50,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,44767-43,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_43_1DTM,MK793989,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,NA,cluster0
+20140304,44767-43,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_43_1LNA,MK793990,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-43,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_43_1SD,MK793991,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20140304,44767-43,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_43_2SD,MK793992,300,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-44,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_44_1LNA,MK793993,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140304,44767-44,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_44_1SD,MK793994,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140304,44767-44,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_44_2SD,MK793995,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20140304,44767-45,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_45_1SD,MK793996,56,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-46,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_46_1SD,MK793997,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-47,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_47_1DTM,MK793998,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,NA,cluster49
+20140304,44767-47,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_47_1LNA,MK793999,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,NA,cluster49
+20140304,44767-47,Susceptible,Perimyotis subflavus,Trigg,KY,KY1,44767_47_1SD,MK794000,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140304,44767-48,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_48_1SD,MK794001,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140304,44767-48,Tolerant,Myotis sodalis,Trigg,KY,KY1,44767_48_2SD,MK794002,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-01,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_01_1SD,MK794003,53,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-02,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_02_1SD,MK794004,24,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-02,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_02_2SD,MK794005,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-03,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_03_1SD,MK794006,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-03,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_03_2SD,MK794007,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-04,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_04_1SD,,8,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-04,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_04_2SD,MK794008,11,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-05,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_05_1SD,MK794009,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-05,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_05_2SD,MK794010,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-06,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_06_1SD,MK794011,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-07,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_07_1SD,MK794012,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-07,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_07_2SD,MK794013,3,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-08,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_08_1SD,MK794014,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-08,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_08_2SD,MK794015,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-09,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_09_1SD,MK794016,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-10,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_10_1SD,MK794017,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-11,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_11_1SD,MK794018,46,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-12,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_12_1LNA,MK794019,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140319,44768-12,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_12_1SD,MK794020,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-13,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_13_1SD,MK794021,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-14,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_14_1SD,MK794022,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-14,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_14_2SD,MK794023,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20140319,44768-15,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_15_1SD,MK794024,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-15,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_15_2SD,MK794025,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140319,44768-16,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_16_1SD,MK794026,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-17,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_17_2SD,MK794027,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-18,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_18_1SD,MK794028,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-18,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_18_2SD,MK794029,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20140319,44768-18,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_18_3SD,MK794030,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,simplex,cluster78
+20140319,44768-19,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_19_1SD,MK794031,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,NA,cluster78
+20140319,44768-19,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_19_2SD,MK794032,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-20,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_20_1LNA,MK794033,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140319,44768-20,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_20_1SD,MK794034,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-20,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_20_2SD,MK794035,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,NA,cluster78
+20140319,44768-21,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_21_1LNA,MK794036,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140319,44768-21,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_21_1SD,MK794037,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-22,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_22_1LNA,,1,Mucoromycota,Mucoromycetes,Mucorales,Mucoraceae,Helicostylum,pulchrum,cluster127
+20140319,44768-22,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_22_1SD,MK794038,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-23,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_23_1SD,MK794039,70,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-25,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_25_1LNA,MK794040,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140319,44768-25,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_25_1SD,MK794041,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-26,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_26_1SD,MK794042,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20140319,44768-27,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_27_1LNA,MK794043,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20140319,44768-27,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_27_1SD,MK794044,50,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-28,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_28_1SD,MK794045,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-29,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_29_1SD,MK794046,9,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140319,44768-29,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_29_2SD,MK794047,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140319,44768-30,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_30_1SD,MK794048,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20140319,44768-30,unassigned,Myotis lucifugus,Ulster,NY,NY2,44768_30_2SD,MK794049,9,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140328,44769-01,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_01_1LNA,MK794050,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-03,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_03_1SD,MK794051,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140328,44769-04,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_04_1LNA,MK794052,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-06,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_06_1LNA,MK794053,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-08,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_08_1LNA,MK794054,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-09,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_09_1SD,MK794055,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,cluster58
+20140328,44769-10,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_10_1LNA,MK794056,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-13,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_13_1LNA,MK794057,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-14,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_14_1LNA,MK794058,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-16,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_16_1LNA,MK794059,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-17,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_17_1LNA,MK794060,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-17,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_17_1SD,MK794061,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140328,44769-18,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_18_1LNA,MK794062,10,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-18,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_18_1SD,MK794063,63,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20140328,44769-19,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_19_1LNA,MK794064,50,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-20,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_20_1LNA,MK794065,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-21,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_21_1DTM,MK794066,1,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Arthroderma,NA,cluster36
+20140328,44769-21,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_21_1LNA,MK794067,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-22,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_22_1LNA,MK794068,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-23,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_23_1LNA,MK794069,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-24,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_24_1LNA,MK794070,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-25,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_25_1LNA,MK794071,75,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20140328,44769-25,Susceptible,Myotis lucifugus,Grant,WI,WI3,44769_25_1SD,MK794072,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150115,44797-032,unassigned,Myotis lucifugus,Hamilton,NY,NY1,44797_032_1SD,MK794073,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150115,44797-032,unassigned,Myotis lucifugus,Hamilton,NY,NY1,44797_032_2SD,MK794074,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-033,unassigned,Myotis lucifugus,Hamilton,NY,NY1,44797_033_1SD,MK794075,59,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-034,unassigned,Myotis lucifugus,Hamilton,NY,NY1,44797_034_1SD,MK794076,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-035,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_035_1LNA,MK794077,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150115,44797-035,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_035_1SD,MK794078,6,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-035,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_035_2SD,MK794079,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Gamsia,NA,cluster78
+20150115,44797-036,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_036_1DTM,MK794080,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Geomyces,NA,cluster55
+20150115,44797-036,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_036_2DTM,MK794081,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-036,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_036_2SD,MK794082,17,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-036,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_036_3SD,MK794083,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150115,44797-037,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_037_1SD,MK794084,51,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-038,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_038_1SD,MK794085,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,cluster9
+20150115,44797-038,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_038_2SD,MK794086,18,Basidiomycota,Tremellomycetes,Holtermanniales,incertae sedis,Holtermanniella,takashimae,cluster73
+20150115,44797-038,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_038_3SD,MK794087,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-039,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_039_2SD,MK794088,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-040,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_040_2SD,MK794089,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-041,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_041_1SD,MK794090,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-042,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_042_1DTM,MK794091,1,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20150115,44797-042,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_042_1SD,MK794092,7,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20150115,44797-042,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_042_3SD,MK794093,35,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-043,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_043_1SD,MK794094,53,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-044,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_044_1DTM,MK794095,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150115,44797-044,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_044_1SD,MK794096,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150115,44797-044,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_044_2SD,MK794097,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-045,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_045_1SD,MK794098,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-046,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_046_1SD,MK794099,25,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-047,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_047_1SD,MK794100,62,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-048,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_048_1SD,MK794101,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-048,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_048_2SD,MK794102,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150115,44797-048,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_048_3SD,MK794103,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-049,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_049_1DTM,MK794104,1,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,cluster1
+20150115,44797-049,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_049_1SD,MK794105,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-050,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_050_1DTM,MK794106,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150115,44797-050,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_050_1SD,MK794107,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150115,44797-050,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_050_2SD,MK794108,16,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-051,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_051_1SD,MK794109,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Yamadazyma,phyllophila,cluster68
+20150115,44797-051,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_051_2SD,MK794110,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-052,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_052_1SD,MK794111,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-053,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_053_1SD,MK794112,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150115,44797-053,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_053_2SD,MK794113,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-054,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_054_1SD,MK794114,101,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-055,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_055_1SD,MK794115,10,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-056,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_056_1SD,MK794116,33,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-057,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_057_1SD,MK794117,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudeurotium,NA,cluster56
+20150115,44797-057,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_057_2SD,MK794118,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-058,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_058_1SD,MK794119,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-059,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_059_1SD,MK794120,12,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-060,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_060_1SD,MK794121,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-061,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_061_1SD,MK794122,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-061,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_061_2SD,MK794123,67,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150115,44797-061,unassigned,Myotis lucifugusny,Hamilton,NY,NY1,44797_061_3SD,MK794124,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-062,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_062_1LNA,MK794125,2,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Arthroderma,NA,cluster36
+20150224,44797-062,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_062_1SD,MK794126,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150224,44797-062,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_062_2LNA,MK794127,2,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,NA,cluster49
+20150224,44797-062,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_062_2SD,MK794128,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-062,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_062_3SD,MK794129,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-063,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_063_1SD,MK794130,18,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-064,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_064_1LNA,MK794131,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-064,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_064_1SD,MK794132,6,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,glandicola,cluster24
+20150224,44797-064,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_064_2LNA,MK794133,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150224,44797-064,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_064_2SD,MK794134,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-064,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_064_3SD,MK794135,3,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20150224,44797-065,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_065_1DTM,MK794136,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-065,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_065_1SD,MK794137,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-065,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_065_2DTM,MK794138,15,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-065,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_065_2SD,MK794139,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-065,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_065_3SD,MK794140,19,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-065,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_065_4SD,MK794141,3,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,NA,cluster0
+20150224,44797-066,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_066_1DTM,MK794142,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-066,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_066_1SD,MK794143,6,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-066,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_066_2DTM,MK794144,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,guehoae,cluster140
+20150224,44797-066,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_066_2SD,MK794145,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-066,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_066_3SD,MK794146,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-067,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_067_1DTM,MK794147,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150224,44797-067,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_067_1SD,MK794148,6,Basidiomycota,Tremellomycetes,Tremellales,Rhynchogastremataceae,Papiliotrema,flavescens,cluster182
+20150224,44797-067,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_067_2SD,MK794149,7,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Guehomyces,pullulans,cluster114
+20150224,44797-067,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_067_3SD,MK794150,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150224,44797-067,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_067_4SD,MK794151,100,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-068,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_068_1DTM,MK794152,4,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-068,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_068_1SD,MK794153,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150224,44797-068,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_068_2DTM,MK794154,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Vanrija,fragicola,cluster187
+20150224,44797-068,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_068_2SD,MK794155,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-069,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_069_1DTM,MK794156,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-069,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_069_1SD,MK794157,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150224,44797-069,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_069_2DTM,MK794158,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-069,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_069_2SD,MK794159,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-069,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_069_3DTM,MK794160,13,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Vanrija,fragicola,cluster187
+20150224,44797-070,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_070_1LNA,MK794161,1,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster19
+20150224,44797-070,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_070_1SD,MK794162,500,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-071,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_071_1SD,MK794163,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150224,44797-071,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_071_2SD,MK794164,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-071,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_071_3SD,MK794165,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-071,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_071_4SD,MK794166,15,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-072,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_072_1DTM,MK794167,9,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-072,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_072_1SD,MK794168,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150224,44797-072,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_072_2SD,MK794169,505,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-072,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_072_3DTM,MK794170,50,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Vanrija,fragicola,cluster187
+20150224,44797-072,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_072_3SD,MK794171,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-073,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_073_1DTM,MK794172,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-073,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_073_1SD,MK794173,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-073,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_073_2SD,MK794174,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-073,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_073_3SD,MK794175,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster48
+20150224,44797-073,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_073_3SD(2),MK794176,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-074,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_074_1DTM,MK794177,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Vanrija,fragicola,cluster187
+20150224,44797-074,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_074_1SD,MK794178,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-074,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_074_2SD,MK794179,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,NA,cluster0
+20150224,44797-074,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_074_3SD,MK794180,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Apiotrichum,dulcitum,cluster110
+20150224,44797-075,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_075_1SD,MK794181,25,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-076,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_076_1DTM,MK794182,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-076,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_076_1SD,MK794183,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150224,44797-076,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_076_2DTM,MK794184,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-076,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_076_2SD,MK794185,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150224,44797-076,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_076_3DTM,MK794186,14,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Vanrija,fragicola,cluster187
+20150224,44797-076,Tolerant,Myotis sodalis,Shannon,MO,MO1,44797_076_3SD,MK794187,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150224,44797-077,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_077_1SD,MK794188,37,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-078,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_078_1LNA,MK794189,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,NA,cluster150
+20150224,44797-078,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_078_1SD,MK794190,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150224,44797-078,Susceptible,Perimyotis subflavus,Shannon,MO,MO1,44797_078_2SD,MK794191,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-079,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_079_1DTM,MK794192,1,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,NA,NA,cluster124
+20150218,44797-079,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_079_1SD,MK794193,71,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,cluster26
+20150218,44797-079,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_079_2SD,MK794194,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-079,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_079_3SD,MK794195,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-080,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_080_1DTM,MK794196,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-080,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_080_1SD,MK794197,32,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-080,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_080_2SD,MK794198,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-080,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_080_3SD,MK794199,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150218,44797-082,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_082_1SD,MK794200,4,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster60
+20150218,44797-082,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_082_2SD,MK794201,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-083,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_083_1DTM,MK794202,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,tephrensis,cluster47
+20150218,44797-083,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_083_1SD,MK794203,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,cluster72
+20150218,44797-083,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_083_2SD,MK794204,6,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-083,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_083_3SD,MK794205,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_1DTM,MK794206,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_1LNA,MK794207,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_1SD,MK794208,45,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_2DTM,MK794209,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Hannaella,luteola,cluster129
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_2LNA,MK794210,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_2SD,MK794211,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,carnescens,cluster71
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_3DTM,MK794212,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Hannaella,oryzae,cluster128
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_3SD,MK794213,15,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_4DTM,MK794214,1,Ascomycota,Dothideomycetes,Dothideomycetes_ord_Incertae_sedis,Eremomycetaceae,NA,NA,cluster197
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_4SD,MK794215,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,NA,NA,cluster52
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_5DTM,MK794216,45,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,cluster54
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_5SD,MK794217,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_6SD,MK794218,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_7SD,MK794219,4,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Mycosphaerella,tassiana,cluster0
+20150218,44797-084,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_084_8SD,MK794220,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-085,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_085_1SD,MK794221,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-085,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_085_2SD,MK794222,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-085,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_085_3SD,MK794223,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-086,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_086_1DTM,MK794224,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-086,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_086_1SD,MK794225,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-086,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_086_2SD,MK794226,9,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-086,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_086_3SD,MK794227,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-087,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_087_1DTM,MK794228,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster97
+20150218,44797-087,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_087_1LNA,MK794229,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,NA,cluster46
+20150218,44797-087,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_087_1SD,MK794230,2,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Guehomyces,pullulans,cluster114
+20150218,44797-087,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_087_2LNA,MK794231,8,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster97
+20150218,44797-087,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_087_2SD,MK794232,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-087,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_087_3SD,MK794233,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-088,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_088_1SD,MK794234,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-088,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_088_2SD,MK794235,2,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,cluster54
+20150218,44797-089,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_089_1SD,MK794236,9,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-089,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_089_2SD,MK794237,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,NA,NA,cluster52
+20150218,44797-089,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_089_3SD,MK794238,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-089,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_089_4SD,MK794239,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_1DTM,MK794240,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_1LNA,MK794241,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_1SD,MK794242,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_2DTM,MK794243,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_2SD,MK794244,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_3DTM,MK794245,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_3SD,MK794246,8,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_4DTM,MK794247,2,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster20
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_4SD,MK794248,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,bialowiezense,cluster139
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_5DTM,MK794249,1,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,cluster54
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_5SD,MK794250,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_6DTM,MK794251,1,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster20
+20150218,44797-090,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_090_7DTM,MK794252,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,corylophilum,cluster61
+20150218,44797-091,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_091_1DTM,MK794253,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster97
+20150218,44797-091,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_091_1LNA,MK794254,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,NA,cluster46
+20150218,44797-091,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_091_1SD,MK794255,33,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-091,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_091_2SD,MK794256,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-091,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_091_3SD,MK794257,17,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-091,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_091_4SD,MK794258,33,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_1DTM,MK794259,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_1SD,MK794260,33,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_2DTM,MK794261,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_2SD,MK794262,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_3DTM,MK794263,1,Ascomycota,Sordariomycetes,Hypocreales,Clavicipitaceae,Metacordyceps,chlamydosporia,cluster186
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_3SD,MK794264,29,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150218,44797-092,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_092_4DTM,MK794265,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150218,44797-093,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_093_1DTM,MK794266,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-093,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_093_1LNA,MK794267,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-093,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_093_1SD,MK794268,20,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-093,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_093_2SD,MK794269,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-093,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_093_3SD,MK794270,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-094,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_094_1SD,MK794271,88,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-094,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_094_2SD,MK794272,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-095,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_095_1DTM,MK794273,1,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150218,44797-095,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_095_1SD,MK794274,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-095,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_095_2SD,MK794275,2,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,NA,cluster71
+20150218,44797-095,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_095_3SD,MK794276,2,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Humicola,NA,cluster69
+20150218,44797-096,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_096_1LNA,MK794277,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-096,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_096_1SD,MK794278,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-096,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_096_2LNA,MK794279,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-096,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_096_2SD,MK794280,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-096,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_096_3SD,MK794281,39,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-097,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_097_1DTM,MK794282,1,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,NA,cluster101
+20150218,44797-097,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_097_1LNA,MK794283,2,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,mexicana,cluster101
+20150218,44797-097,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_097_1SD,MK794284,20,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-097,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_097_2DTM,MK794285,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster97
+20150218,44797-097,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_097_2SD,MK794286,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-097,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_097_4SD,MK794287,2,Ascomycota,Eurotiomycetes,Chaetothyriales,Herpotrichiellaceae,Phialophora,hyalina,cluster6
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_1DTM,MK794288,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_1LNA,MK794289,1,Ascomycota,Saccharomycetes,Saccharomycetales,Trichomonascaceae,Trichomonascus,apis,cluster196
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_1SD,MK794290,18,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_2DTM,MK794291,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_2LNA,MK794292,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_2SD,MK794293,500,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_3LNA,MK794294,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_3SD,MK794295,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_4SD,MK794296,30,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150218,44797-098,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_098_5SD,MK794297,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150218,44797-099,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_099_1DTM,MK794298,1,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Auxarthron,umbrinum,cluster45
+20150218,44797-099,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_099_1LNA,MK794299,3,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,NA,cluster46
+20150218,44797-099,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_099_1SD,MK794300,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150218,44797-099,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_099_2LNA,MK794301,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster97
+20150218,44797-099,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_099_2SD,MK794302,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150218,44797-099,Tolerant,Eptesicus fuscus,Iowa,WI,WI7,44797_099_3SD,MK794303,2,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster60
+20150127,44797-100,Susceptible,Myotis septentrionalis,Crawford ,WI,WI4,44797_100_1DTM,MK794304,2,Ascomycota,NA,NA,NA,NA,NA,cluster144
+20150127,44797-100,Susceptible,Myotis septentrionalis,Crawford ,WI,WI4,44797_100_1LNA,MK794305,27,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150127,44797-101,Susceptible,Myotis septentrionalis,Crawford ,WI,WI4,44797_101_1DTM,MK794306,33,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster19
+20150127,44797-101,Susceptible,Myotis septentrionalis,Crawford ,WI,WI4,44797_101_1SD,MK794307,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150127,44797-101,Susceptible,Myotis septentrionalis,Crawford ,WI,WI4,44797_101_2SD,MK794308,29,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150127,44797-102,Susceptible,Myotis septentrionalis,Crawford ,WI,WI4,44797_102_1SD,MK794309,25,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150128,44797-103,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,44797_103_1LNA,MK794310,2,Ascomycota,NA,NA,NA,NA,NA,cluster144
+20150128,44797-103,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,44797_103_1SD,MK794311,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,cluster58
+20150128,44797-103,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,44797_103_2LNA,MK794312,100,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150128,44797-104,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,44797_104_1LNA,MK794313,5,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150128,44797-108,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,44797_108_1DTM,MK794314,4,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,cluster8
+20150128,44797-108,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,44797_108_1SD,MK794315,26,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Acrodontium,crateriforme,cluster8
+20150129,44797-111,Susceptible,Myotis septentrionalis,Richland,WI,WI5,44797_111_1SD,MK794316,22,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20150129,44797-114,Susceptible,Myotis septentrionalis,Richland,WI,WI5,44797_114_1SD,MK794317,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20150129,44797-114,Susceptible,Myotis septentrionalis,Richland,WI,WI5,44797_114_2SD,MK794318,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150129,44797-115,Susceptible,Myotis septentrionalis,Richland,WI,WI5,44797_115_1LNA,MK794319,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150129,44797-116,Susceptible,Myotis septentrionalis,Richland,WI,WI5,44797_116_1DTM,MK794320,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,lanosoniveum,cluster133
+20150129,44797-116,Susceptible,Myotis septentrionalis,Richland,WI,WI5,44797_116_1SD,MK794321,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150205,44797-117,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_117_1SD,MK794322,4,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,NA,cluster13
+20150205,44797-118,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_118_1SD,MK794323,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,cluster171
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_1DTM,MK794324,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,cluster9
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_1LNA,MK794325,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_1SD,MK794326,8,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudeurotium,NA,cluster56
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_2DTM,MK794327,4,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,cluster21
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_2SD,MK794328,3,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_3DTM,MK794329,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,roseus,cluster26
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_3SD,MK794330,8,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudeurotium,NA,cluster56
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_4SD,MK794331,5,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_5SD,MK794332,13,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150205,44797-119,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_119_6SD,MK794333,7,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150205,44797-120,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_120_1DTM,MK794334,1,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,cluster22
+20150205,44797-120,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_120_1SD,MK794335,4,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150205,44797-120,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_120_2DTM,MK794336,4,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,NA,cluster159
+20150205,44797-120,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_120_2SD,MK794337,5,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,parvispora,cluster171
+20150205,44797-120,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_120_3SD,MK794338,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,NA,cluster159
+20150205,44797-120,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_120_4SD,MK794339,2,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,cluster22
+20150205,44797-121,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_121_1DTM,MK794340,1,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,mexicana,cluster101
+20150205,44797-121,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_121_1SD,MK794341,8,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,NA,cluster13
+20150205,44797-122,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_122_1DTM,MK794342,2,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,mexicana,cluster101
+20150205,44797-122,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_122_1SD,MK794343,10,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,NA,cluster13
+20150205,44797-122,Susceptible,Myotis septentrionalis,Iron,WI,WI6,44797_122_2SD,MK794344,100,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20150302,44797-124,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,44797_124_1LNA,MK794345,3,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150302,44797-127,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,44797_127_1LNA,MK794346,11,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150302,44797-127,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,44797_127_1SD,MK794347,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150302,44797-130,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,44797_130_1LNA,MK794348,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150302,44797-131,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,44797_131_1LNA,MK794349,10,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150302,44797-131,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,44797_131_1SD,MK794350,1,Ascomycota,Sordariomycetes,Hypocreales,incertae sedis,Sarocladium,NA,cluster34
+20150211,44797-133,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_133_1DTM,MK794351,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-133,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_133_1SD,MK794352,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-134,Susceptible,Perimyotis subflavus,Jackson,AL,AL1,44797_134_1SD,MK794353,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150211,44797-135,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_135_1LNA,MK794354,31,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-135,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_135_1SD,MK794355,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-135,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_135_2SD,MK794356,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-135,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_135_3SD,MK794357,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-136,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_136_1LNA,MK794358,1,Ascomycota,Eurotiomycetes,Onygenales,Onygenaceae,Auxarthron,thaxteri,cluster42
+20150211,44797-136,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_136_1SD,MK794359,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-136,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_136_2SD,MK794360,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-137,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_137_1LNA,MK794361,20,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-137,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_137_1SD,MK794362,106,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-138,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_138_1LNA,MK794363,10,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-138,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_138_1SD,MK794364,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-138,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_138_2LNA,MK794365,4,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-138,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_138_2SD,MK794366,7,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-139,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_139_1LNA,MK794367,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-139,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_139_1SD,MK794368,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-139,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_139_2LNA,MK794369,9,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-139,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_139_2SD,MK794370,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-141,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_141_1DTM,MK794371,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-141,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_141_1LNA,MK794372,5,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-141,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_141_1SD,MK794373,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-141,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_141_2SD,MK794374,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-141,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_141_3LNA,MK794375,62,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-142,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_142_1LNA,MK794376,53,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-142,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_142_1SD,MK794377,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-142,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_142_2SD,MK794378,38,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-142,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_142_3SD,MK794379,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-143,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_143_1LNA,MK794380,7,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-143,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_143_1SD,MK794381,103,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-143,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_143_2SD,MK794382,28,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-143,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_143_3LNA,MK794383,1,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-143,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_143_4SD,MK794384,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_1LNA,MK794385,27,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_1SD,MK794386,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_2SD,MK794387,13,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,namibiae,cluster43
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_3SD,MK794388,5,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_4SD,MK794389,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_5SD,MK794390,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-144,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_144_6SD,MK794391,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,NA,cluster0
+20150211,44797-145,Susceptible,Perimyotis subflavus,Jackson,AL,AL1,44797_145_1SD,MK794392,4,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,destructans,cluster26
+20150211,44797-146,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_146_1DTM,MK794393,17,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-146,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_146_1LNA,MK794394,48,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-146,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_146_1SD,MK794395,6,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,glandicola,cluster24
+20150211,44797-146,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_146_2SD,MK794396,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-146,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_146_3SD,MK794397,55,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-146,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_146_4SD,MK794398,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-147,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_147_1DTM,MK794399,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-147,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_147_1LNA,MK794400,17,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-147,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_147_1SD,MK794401,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-147,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_147_2SD,MK794402,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-147,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_147_3SD,MK794403,9,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-148,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_148_1LNA,MK794404,2,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-148,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_148_1SD,MK794405,18,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-148,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_148_2SD,MK794406,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-149,Susceptible,Perimyotis subflavus,Jackson,AL,AL1,44797_149_1SD,MK794407,1,Ascomycota,Saccharomycetes,Saccharomycetales,incertae sedis,Candida,palmioleophila,cluster132
+20150211,44797-149,Susceptible,Perimyotis subflavus,Jackson,AL,AL1,44797_149_2SD,MK794408,7,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,NA,NA,cluster50
+20150211,44797-150,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_150_1LNA,MK794409,45,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-150,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_150_1SD,MK794410,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-151,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_151_1DTM,MK794411,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-151,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_151_1LNA,MK794412,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-151,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_151_1SD,MK794413,2,Ascomycota,Dothideomycetes,Capnodiales,Mycosphaerellaceae,Mycosphaerella,tassiana,cluster0
+20150211,44797-151,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_151_2SD,MK794414,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-151,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_151_3SD,MK794415,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-151,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_151_4SD,MK794416,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-152,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_152_1LNA,MK794417,8,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-152,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_152_1SD,MK794418,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-152,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_152_2LNA,MK794419,29,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-152,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_152_2SD,MK794420,11,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-153,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_153_1DTM,MK794421,6,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-153,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_153_1LNA,MK794422,13,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20150211,44797-153,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_153_1SD,MK794423,3,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150211,44797-153,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_153_2SD,MK794424,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-153,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_153_3SD,MK794425,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-153,Tolerant,Myotis sodalis,Jackson,AL,AL1,44797_153_4SD,MK794426,3,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-154,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_154_1SD,MK794427,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-154,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_154_2SD,MK794428,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150211,44797-155,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_155_1DTM,MK794429,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-155,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_155_1LNA,MK794430,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150211,44797-155,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_155_1SD,MK794431,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150211,44797-155,Tolerant,Myotis grisescens,Jackson,AL,AL1,44797_155_2SD,MK794432,24,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150223,44797-156,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_156_1DTM,MK794433,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-156,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_156_1LNA,MK794434,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-156,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_156_1SD,MK794435,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-157,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_157_1DTM,MK794436,1,Ascomycota,Eurotiomycetes,Onygenales,Arthrodermataceae,Arthroderma,insingulare,cluster66
+20150223,44797-157,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_157_1LNA,MK794437,33,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-157,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_157_1SD,MK794438,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-157,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_157_2DTM,MK794439,38,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-157,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_157_2SD,MK794440,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-157,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_157_3SD,MK794441,25,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-158,Tolerant,Myotis grisescens,Conecuh,AL,AL2,44797_158_1DTM,MK794442,200,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-158,Tolerant,Myotis grisescens,Conecuh,AL,AL2,44797_158_1SD,MK794443,22,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-159,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_159_1LNA,MK794444,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-159,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_159_1SD,MK794445,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-160,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_160_1DTM,MK794446,58,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-160,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_160_1LNA,MK794447,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-160,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_160_1SD,MK794448,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-162,Susceptible,Perimyotis subflavus,Conecuh,AL,AL2,44797_162_1SD,MK794449,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster9
+20150223,44797-163,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_163_1DTM,MK794450,16,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-163,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_163_1LNA,MK794451,25,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-163,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_163_1SD,MK794452,28,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-164,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_164_1DTM,MK794453,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-164,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_164_1LNA,,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-164,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_164_1SD,MK794454,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-164,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_164_2SD,MK794455,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-164,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_164_3SD,MK794456,7,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150223,44797-165,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_165_1SD,MK794457,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-165,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_165_2SD,MK794458,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-166,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_166_1DTM,MK794459,7,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-166,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_166_1LNA,,10,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-166,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_166_1SD,MK794460,13,Ascomycota,Dothideomycetes,Dothideales,Dothioraceae,NA,NA,cluster168
+20150223,44797-166,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_166_2SD,MK794461,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-167,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_167_1DTM,MK794462,4,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-167,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_167_1LNA,,39,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-167,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_167_1SD,MK794463,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-167,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_167_2SD,MK794464,7,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-168,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_168_1DTM,MK794465,500,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-168,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_168_1LNA,,500,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-168,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_168_1SD,MK794466,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-168,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_168_2SD,MK794467,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-169,Tolerant,Myotis grisescens,Conecuh,AL,AL2,44797_169_1LNA,MK794468,2,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-169,Tolerant,Myotis grisescens,Conecuh,AL,AL2,44797_169_1SD,MK794469,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-170,Susceptible,Perimyotis subflavus,Conecuh,AL,AL2,44797_170_1SD,MK794470,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-171,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_171_1DTM,MK794471,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150223,44797-171,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_171_1LNA,,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-171,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_171_1SD,MK794472,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-171,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_171_2DTM,MK794473,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-171,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_171_2SD,MK794474,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-171,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_171_3SD,MK794475,100,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,NA,cluster43
+20150223,44797-172,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_172_1SD,MK794476,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-172,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_172_2SD,MK794477,1,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-173,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_173_1DTM,MK794478,500,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-173,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_173_1LNA,,500,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-173,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_173_1SD,MK794479,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150223,44797-173,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_173_2SD,MK794480,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-173,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_173_3SD,MK794481,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-174,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_174_1DTM,MK794482,16,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-174,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_174_1LNA,,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-174,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_174_1SD,MK794483,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150223,44797-174,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_174_2DTM,MK794484,100,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Cutaneotrichosporon,moniliiforme,cluster44
+20150223,44797-174,Tolerant,Myotis austroriparius,Conecuh,AL,AL2,44797_174_2SD,MK794485,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-175,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_175_1LNA,MK794486,3,Ascomycota,Eurotiomycetes,Onygenales,Gymnoascaceae,Gymnoascus,NA,cluster136
+20150223,44797-175,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_175_1SD,MK794487,1,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Mrakiaceae,Udeniomyces,pyricola,cluster38
+20150223,44797-175,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_175_2SD,MK794488,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-176,Susceptible,Perimyotis subflavus,Covington,AL,AL3,44797_176_1LNA,MK794489,7,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,NA,cluster49
+20150223,44797-176,Susceptible,Perimyotis subflavus,Covington,AL,AL3,44797_176_2SD,MK794490,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-177,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_177_1SD,MK794491,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-177,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_177_2SD,MK794492,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,toxicarium,cluster41
+20150223,44797-178,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_178_1SD,MK794493,3,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150223,44797-178,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_178_2SD,MK794494,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-180,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_180_1SD,MK794495,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-181,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_181_1SD,MK794496,22,Basidiomycota,Tremellomycetes,Cystofilobasidiales,Cystofilobasidiaceae,Cystofilobasidium,macerans,cluster130
+20150223,44797-181,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_181_2SD,MK794497,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-183,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_183_1DTM,MK794498,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Lecanicillium,muscarium,cluster180
+20150223,44797-183,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_183_1SD,MK794499,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-185,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_185_1SD,MK794500,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-187,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_187_1LNA,MK794501,1,Ascomycota,Eurotiomycetes,Onygenales,Gymnoascaceae,Gymnoascus,NA,cluster136
+20150223,44797-187,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_187_1SD,MK794502,86,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-188,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_188_1DTM,MK794503,1,Ascomycota,Sordariomycetes,Ophiostomatales,Ophiostomataceae,Sporothrix,inflata,cluster53
+20150223,44797-188,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_188_1SD,MK794504,28,Mucoromycota,Mucoromycetes,Mucorales,Mucoraceae,NA,NA,cluster85
+20150223,44797-188,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_188_2SD,MK794505,46,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150223,44797-189,Tolerant,Myotis austroriparius,Covington,AL,AL3,44797_189_1SD,MK794506,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-190,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_190_1SD,MK794507,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-190,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_190_2SD,MK794508,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150310,44797-190,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_190_3SD,MK794509,13,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,NA,cluster0
+20150310,44797-191,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_191_1DTM,MK794510,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-191,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_191_1LNA,MK794511,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-191,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_191_1SD,MK794512,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150310,44797-191,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_191_2SD,MK794513,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-191,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_191_3SD,MK794514,12,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150310,44797-192,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_192_1SD,MK794515,35,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-193,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_193_1DTM,MK794516,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150310,44797-193,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_193_1SD,MK794517,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150310,44797-193,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_193_2DTM,MK794518,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-193,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_193_2SD,MK794519,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150310,44797-193,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_193_3SD,MK794520,2,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150310,44797-194,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_194_1DTM,MK794521,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-194,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_194_1LNA,MK794522,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-194,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_194_1SD,MK794523,9,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150310,44797-194,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_194_2SD,MK794524,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster2
+20150310,44797-195,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_195_1LNA,MK794525,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-195,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_195_1SD,MK794526,13,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150310,44797-195,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_195_2SD,MK794527,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-195,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_195_3SD,MK794528,3,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20150310,44797-196,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_196_1SD,MK794529,2,Ascomycota,Sordariomycetes,Xylariales,Xylariaceae,NA,NA,cluster113
+20150310,44797-196,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_196_2SD,MK794530,100,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20150310,44797-197,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_197_1SD,MK794531,4,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,delicatulum,cluster0
+20150310,44797-197,Tolerant,Myotis austroriparius,Jackson,AL,AL4,44797_197_2SD,MK794532,500,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_0DTM,MK794533,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_0LNA,MK794534,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_1DTM,MK794535,1,Ascomycota,Sordariomycetes,Sordariales,Cephalothecaceae,Cryptendoxyla,hypophloia,cluster67
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_1SD,MK794536,60,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_2SD,MK794537,2,Ascomycota,Dothideomycetes,Capnodiales,Cladosporiaceae,Cladosporium,NA,cluster0
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_3SD,MK794538,30,Basidiomycota,Microbotryomycetes,Leucosporidiales,Leucosporidiaceae,Leucosporidium,NA,cluster52
+20160128,45704-142,Tolerant,Eptesicus fuscus,Centre,PA,PA1,45704_142_4SD,MK794539,1,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Acaulium,caviariforme,cluster57
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_0DTM,MK794540,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster25
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_0LNA,MK794541,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,carmichaelii,cluster95
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_1LNA,,1,Ascomycota,Sordariomycetes,Microascales,incertae sedis,Wardomyces,humicola,cluster79
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_1SD,MK794542,2,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,NA,cluster26
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_2SD,MK794543,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster24
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_4aSD,MK794544,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_4SD,MK794545,23,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_6SD,MK794546,3,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160128,45704-144,Tolerant,Myotis leibii,Centre,PA,PA1,45704_144_7SD,MK794547,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,cluster25
+20160128,45704-146,Tolerant,Myotis leibii,Centre,PA,PA1,45704_146_0LNA,MK794548,1,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster166
+20160128,45704-146,Tolerant,Myotis leibii,Centre,PA,PA1,45704_146_0SD,MK794549,1,Ascomycota,Leotiomycetes,Helotiales,Sclerotiniaceae,NA,NA,cluster148
+20160128,45704-146,Tolerant,Myotis leibii,Centre,PA,PA1,45704_146_1SD,MK794550,5,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20160226,45704-161,Tolerant,Myotis leibii,Fayette,PA,PA2,45704_161_0DTM,MK794551,2,Basidiomycota,Malasseziomycetes,Malasseziales,Malasseziaceae,Malassezia,NA,cluster11
+20170128,46372-1303,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,46372_1303_0SD,,1,Ascomycota,Eurotiomycetes,Onygenales,incertae sedis,Chrysosporium,vallenarense,cluster200
+20170128,46372-1304,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,46372_1304_1SD,,100,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,NA,cluster43
+20170128,46372-1306,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,46372_1306_0SD,MK794552,1,Ascomycota,Leotiomycetes,Helotiales,Myxotrichaceae,Oidiodendron,NA,cluster156
+20170128,46372-1308,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,46372_1308_0LNA,,1,Ascomycota,Eurotiomycetes,NA,NA,NA,NA,cluster201
+20170128,46372-1309,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,46372_1309_0SD,MK794553,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,NA,cluster48
+20170128,46372-1310,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,46372_1310_1SD,MK794554,9,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1357,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1357_0DPYA,MK794555,7,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster103
+20170315,46373-1357,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1357_1LNA,MK794556,2,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster103
+20170315,46373-1358,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1358_2DPYA,MK794557,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,alpina,cluster172
+20170315,46373-1360,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1360_1LNA,MK794558,13,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1363,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1363_1LNA,MK794559,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1364,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1364_1DPYA,MK794560,4,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1367,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1367_1LNA,MK794561,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1368,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1368_0DPYA,MK794562,7,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1369,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1369_1LNA,MK794563,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1374,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1374_0SD,MK794564,1,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,Verticillium,leptobactrum,cluster107
+20170315,46373-1374,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1374_1SD,MK794565,2,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,pini,cluster174
+20170315,46373-1375,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1375_1DPYA,MK794566,1,Ascomycota,Sordariomycetes,Glomerellales,Plectosphaerellaceae,NA,NA,cluster83
+20170315,46373-1375,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1375_1LNA,MK794567,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1376,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1376_0SD,MK794568,1,Ascomycota,Sordariomycetes,Xylariales,Sporocadaceae,Neopestalotiopsis,NA,cluster121
+20170315,46373-1379,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1379_0LNA,MK794569,1,Ascomycota,Sordariomycetes,Hypocreales,Hypocreaceae,Trichoderma,stellatum,cluster179
+20170315,46373-1381,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1381_1DPYA,MK794570,1,Ascomycota,Leotiomycetes,Helotiales,Dermateaceae,Mollisia,NA,cluster84
+20170315,46373-1381,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1381_1SD,MK794571,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,subtropicum,cluster35
+20170315,46373-1381,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1381_2SD,MK794572,7,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Torulaspora,NA,cluster91
+20170315,46373-1381,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1381_4DPYA,MK794573,8,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1384,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1384_1DPYA,MK794574,15,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1384,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1384_2LNA,MK794575,1,Basidiomycota,Tremellomycetes,Tremellales,Tremellaceae,Cryptococcus,NA,cluster167
+20170315,46373-1384,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1384_3LNA,MK794576,75,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1387,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1387_1DPYA,MK794577,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1388,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1388_1DPYA,MK794578,34,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,NA,cluster43
+20170315,46373-1388,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1388_1SD,MK794579,11,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,NA,cluster43
+20170315,46373-1388,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1388_2DPYA,MK794580,13,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,cluster74
+20170315,46373-1388,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1388_2LNA,MK794581,20,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,NA,cluster43
+20170315,46373-1388,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1388_3LNA,MK794582,2,Ascomycota,Sordariomycetes,Microascales,Microascaceae,Scopulariopsis,brumptii,cluster181
+20170315,46373-1388,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,46373_1388_4LNA,MK794583,2,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,cluster74
+20170315,46373-1392,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1392_0DPYA,MK794584,1,Ascomycota,Eurotiomycetes,Onygenales,NA,NA,NA,cluster103
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_1DPYA,MK794585,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_1LNA,MK794586,2,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_1SD,MK794587,1,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_2DPYA,MK794588,1,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,pinicola,cluster131
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_2SD,MK794589,1,Ascomycota,Orbiliomycetes,Orbiliales,Orbiliaceae,NA,NA,cluster177
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_3SD,MK794590,1,Ascomycota,Orbiliomycetes,Orbiliales,Orbiliaceae,Retiarius,NA,cluster33
+20170315,46373-1399,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1399_4SD,MK794591,1,Ascomycota,Leotiomycetes,Helotiales,NA,NA,NA,cluster118
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_1DPYA,MK794592,2,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,clonocystis,cluster14
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_1LNA,MK794593,2,Basidiomycota,Cystobasidiomycetes,incertae sedis,Symmetrosporaceae,Symmetrospora,coprosmae,cluster165
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_2DPYA,MK794594,3,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,pinicola,cluster131
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_2LNA,MK794595,1,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_2SD,MK794596,5,Ascomycota,Dothideomycetes,Dothideales,Aureobasidiaceae,Aureobasidium,pullulans,cluster43
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_3DPYA,MK794597,1,Basidiomycota,Cystobasidiomycetes,Erythrobasidiales,Erythrobasidiaceae,Erythrobasidium,hasegawianum,cluster188
+20170315,46373-1404,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1404_3LNA,MK794598,2,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,pinicola,cluster131
+20170315,46373-1405,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1405_1LNA,MK794599,1,Ascomycota,Sordariomycetes,Hypocreales,Cordycipitaceae,Simplicillium,cylindrosporum,cluster35
+20170315,46373-1405,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1405_1SD,MK794600,2,Basidiomycota,Tremellomycetes,Tremellales,Cryptococcaceae,Kwoniella,heveanensis,cluster190
+20170315,46373-1406,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1406_1DPYA,MK794601,12,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1406,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1406_1LNA,MK794602,17,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,hansenii,cluster2
+20170315,46373-1406,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1406_1SD,MK794603,1,Ascomycota,Leotiomycetes,Helotiales,NA,NA,NA,cluster145
+20170315,46373-1406,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1406_2DPYA,MK794604,1,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,magnum,cluster4
+20170315,46373-1406,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1406_2LNA,MK794605,1,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,magnum,cluster4
+20170315,46373-1406,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1406_3LNA,MK794606,1,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,cluster74
+20170315,46373-1407,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1407_1DPYA,MK794607,3,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,Kondoaceae,Kondoa,aeria,cluster189
+20170315,46373-1407,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1407_1LNA,MK794608,1,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,Cystobasidiaceae,Cystobasidium,slooffiae,cluster74
+20170315,46373-1407,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,46373_1407_1SD,MK794609,1,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,corylophilum,cluster61
+20170327,46380-1415,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,46380_1415_1SD,MK794610,1,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,victoriae,cluster72
+20170327,46380-1415,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,46380_1415_2LNA,MK794611,2,Basidiomycota,Tremellomycetes,Filobasidiales,Filobasidiaceae,Filobasidium,magnum,cluster4
+20170327,46380-1420,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,46380_1420_1SD,MK794612,1,Ascomycota,Leotiomycetes,Thelebolales,Pseudeurotiaceae,Pseudogymnoascus,appendiculatus,cluster9
+20170327,46380-1421,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,46380_1421_2SD,MK794613,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20170327,46380-1422,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,46380_1422_1SD,MK794614,1,Mortierellomycota,Mortierellomycetes,Mortierellales,Mortierellaceae,Mortierella,dichotoma,cluster104
+20150218,44797-081,Tolerant,Perimyotis subflavus,Iowa,WI,WI7,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1301,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1302,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1305,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1307,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1311,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1312,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1313,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1315,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1316,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1317,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170128,46372-1318,Susceptible,Perimyotis subflavus,Woodward,OK,OK1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20160128,45704-134,Tolerant,Myotis leibii,Centre,PA,PA1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1361,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150129,44797-112,Susceptible,Myotis septentrionalis,Richland,WI,WI5,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1370,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1371,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1378,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150129,44797-113,Susceptible,Myotis septentrionalis,Richland,WI,WI5,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1394,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1398,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1403,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170315,46373-1412,Resistant,Corynorhinus rafinesquii,Columbia,AR,AR2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170327,46380-1414,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170327,46380-1416,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170327,46380-1417,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170327,46380-1419,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170327,46380-1423,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20170327,46380-1424,Susceptible,Myotis lucifugus,Pierce ,WI,WI9,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150128,44797-105,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150128,44797-106,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150128,44797-107,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150128,44797-109,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150128,44797-110,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150302,44797-123,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150302,44797-125,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150302,44797-126,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150302,44797-128,Susceptible,Myotis septentrionalis,Manitowoc,WI,WI8,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150302,44797-129,Susceptible,Perimyotis subflavus,Manitowoc,WI,WI8,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150211,44797-132,Susceptible,Perimyotis subflavus,Jackson,AL,AL1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150211,44797-140,Susceptible,Perimyotis subflavus,Jackson,AL,AL1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150223,44797-161,Susceptible,Perimyotis subflavus,Conecuh,AL,AL2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150223,44797-179,Susceptible,Perimyotis subflavus,Covington,AL,AL3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140211,24686_07,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140211,24686_11,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140211,24686_13,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140211,24686_15,Resistant,Corynorhinus townsendii virginianus,Pendleton,WV,WV1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_02,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_04,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_05,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_06,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_09,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_10,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_11,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_12,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_15,Susceptible,Myotis lucifugus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_16,Susceptible,Perimyotis subflavus,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_17,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140228,24716_18,Susceptible,Myotis septentrionalis,Crawford,WI,WI2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140304,24728_14,Tolerant,Eptesicus fuscus,Jasper,IA,IA1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140310,24738_06,Susceptible,Myotis lucifugus,Richland,WI,WI1,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150223,44797-182,Susceptible,Perimyotis subflavus,Covington,AL,AL3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150223,44797-184,Susceptible,Perimyotis subflavus,Covington,AL,AL3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20150223,44797-186,Susceptible,Perimyotis subflavus,Covington,AL,AL3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140319,44768-24,unassigned,Myotis lucifugus,Ulster,NY,NY2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140319,44768-31,unassigned,Myotis lucifugus,Ulster,NY,NY2,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140328,44769-02,Susceptible,Myotis lucifugus,Grant,WI,WI3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140328,44769-05,Susceptible,Myotis lucifugus,Grant,WI,WI3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140328,44769-07,Susceptible,Myotis lucifugus,Grant,WI,WI3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140328,44769-11,Susceptible,Myotis lucifugus,Grant,WI,WI3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140328,44769-12,Susceptible,Myotis lucifugus,Grant,WI,WI3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
+20140328,44769-15,Susceptible,Myotis lucifugus,Grant,WI,WI3,NA,NA,no fungi isolated,NA,NA,NA,NA,NA,NA,NA
